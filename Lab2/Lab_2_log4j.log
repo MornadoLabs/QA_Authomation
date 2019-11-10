@@ -1,0 +1,744 @@
+2019-10-16 00:42:54 INFO  controllers.AddingController:15 - a = 35; b = 20
+2019-10-16 00:45:33 INFO  com.lab2.server.controllers.AddingController:15 - a = 5; b = 2
+2019-10-16 01:13:30 INFO  controllers.AddingController:28 - Start execution of tests for CalculateLogController class.
+2019-10-16 01:13:30 INFO  controllers.AddingController:32 - Execution of tests for CalculateLogController class is finished.
+2019-10-16 01:16:25 INFO  controllers.AddingController:28 - Start execution of tests for CalculateLogController class.
+2019-10-16 01:17:48 INFO  controllers.AddingController:32 - Execution of tests for CalculateLogController class is finished.
+2019-10-16 01:19:08 INFO  controllers.AddingController:28 - Start execution of tests for CalculateLogController class.
+2019-10-16 01:19:26 INFO  controllers.AddingController:32 - Execution of tests for CalculateLogController class is finished.
+2019-10-16 01:19:51 INFO  controllers.AddingController:28 - Start execution of tests for CalculateLogController class.
+2019-10-16 01:22:21 INFO  controllers.AddingController:28 - Start execution of tests for CalculateLogController class.
+2019-10-16 01:29:44 INFO  controllers.AddingController:28 - Start execution of tests for CalculateLogController class.
+2019-10-16 01:29:50 INFO  controllers.AddingController:15 - a = 5; b = 10
+2019-10-16 01:30:13 INFO  controllers.AddingController:32 - Execution of tests for CalculateLogController class is finished.
+2019-10-16 01:30:44 INFO  controllers.AddingController:28 - Start execution of tests for CalculateLogController class.
+2019-10-16 01:30:44 INFO  controllers.AddingController:15 - a = 5; b = 10
+2019-10-16 01:30:44 INFO  controllers.AddingController:32 - Execution of tests for CalculateLogController class is finished.
+2019-10-16 01:35:09 INFO  controllers.AddingController:28 - Start execution of tests for CalculateLogController class.
+2019-10-16 01:35:09 INFO  controllers.AddingController:15 - a = 5; b = 10
+2019-10-16 01:35:09 INFO  controllers.AddingController:32 - Execution of tests for CalculateLogController class is finished.
+2019-10-17 02:36:46 INFO  controllers.AddingController:30 - AddingControllerTests started.
+2019-10-17 02:37:02 INFO  controllers.AddingController:25 - first value = 10.0 + 5.0i; second value = 10.0 + 5.0i
+2019-10-17 02:37:02 INFO  controllers.AddingController:27 - result = 20.0 + 10.0i
+2019-10-17 02:37:19 INFO  controllers.AddingController:59 - AddingControllerTests finished.
+2019-10-17 02:37:37 INFO  controllers.AddingController:30 - AddingControllerTests started.
+2019-10-17 02:38:01 INFO  controllers.AddingController:25 - first value = 10.0 + 5.0i; second value = 10.0 + 5.0i
+2019-10-17 02:38:01 INFO  controllers.AddingController:27 - result = 20.0 + 10.0i
+2019-10-17 02:39:43 INFO  controllers.AddingController:30 - AddingControllerTests started.
+2019-10-17 02:39:43 INFO  controllers.AddingController:25 - first value = 10.0 + 5.0i; second value = 10.0 + 5.0i
+2019-10-17 02:39:43 INFO  controllers.AddingController:27 - result = 20.0 + 10.0i
+2019-10-17 02:39:43 INFO  controllers.AddingController:59 - AddingControllerTests finished.
+2019-10-17 02:40:07 INFO  controllers.AddingController:30 - AddingControllerTests started.
+2019-10-17 02:40:07 INFO  controllers.AddingController:25 - first value = 10.0 + 5.0i; second value = 10.0 + 5.0i
+2019-10-17 02:40:07 INFO  controllers.AddingController:27 - result = 20.0 + 10.0i
+2019-10-17 02:40:07 INFO  controllers.AddingController:59 - AddingControllerTests finished.
+2019-10-17 02:41:19 INFO  controllers.AddingController:30 - AddingControllerTests started.
+2019-10-17 02:41:19 INFO  controllers.AddingController:16 - first value = 10.0; second value = 5.0
+2019-10-17 02:41:19 INFO  controllers.AddingController:18 - result = 15.0
+2019-10-17 02:41:19 INFO  controllers.AddingController:16 - first value = 5.0; second value = 10.0
+2019-10-17 02:41:19 INFO  controllers.AddingController:18 - result = 15.0
+2019-10-17 02:41:19 INFO  controllers.AddingController:16 - first value = -5.0; second value = 10.0
+2019-10-17 02:41:19 INFO  controllers.AddingController:18 - result = 5.0
+2019-10-17 02:41:19 INFO  controllers.AddingController:16 - first value = -385.4128; second value = 102489.15
+2019-10-17 02:41:19 INFO  controllers.AddingController:18 - result = 102103.73719999999
+2019-10-17 02:41:19 INFO  controllers.AddingController:16 - first value = -385.4128; second value = 102489.15
+2019-10-17 02:41:19 INFO  controllers.AddingController:18 - result = 102103.73719999999
+2019-10-17 02:41:19 INFO  controllers.AddingController:59 - AddingControllerTests finished.
+2019-10-17 02:42:27 INFO  controllers.AddingController:30 - AddingControllerTests started.
+2019-10-17 02:42:27 INFO  controllers.AddingController:16 - first value = 10.0; second value = 5.0
+2019-10-17 02:42:27 INFO  controllers.AddingController:18 - result = 15.0
+2019-10-17 02:42:27 INFO  controllers.AddingController:16 - first value = 5.0; second value = 10.0
+2019-10-17 02:42:27 INFO  controllers.AddingController:18 - result = 15.0
+2019-10-17 02:42:27 INFO  controllers.AddingController:16 - first value = -5.0; second value = 10.0
+2019-10-17 02:42:27 INFO  controllers.AddingController:18 - result = 5.0
+2019-10-17 02:42:27 INFO  controllers.AddingController:59 - AddingControllerTests finished.
+2019-10-17 02:44:10 INFO  controllers.AddingController:25 - first value = 10.0 + 5.0i; second value = 10.0 + 5.0i
+2019-10-17 02:44:10 INFO  controllers.AddingController:27 - result = 20.0 + 10.0i
+2019-10-17 02:49:29 INFO  controllers.AddingController:25 - first value = 10.0 + 5.0i; second value = 10.0 + 5.0i
+2019-10-17 02:49:29 INFO  controllers.AddingController:27 - result = 20.0 + 10.0i
+2019-10-17 02:51:28 INFO  controllers.AddingController:25 - first value = 10.0 + 5.0i; second value = 10.0 + 5.0i
+2019-10-17 02:51:29 INFO  controllers.AddingController:27 - result = 20.0 + 10.0i
+2019-10-17 03:21:57 INFO  controllers.AddingController:29 - AddingControllerTests started.
+2019-10-17 03:21:57 INFO  controllers.AddingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 03:21:57 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 03:21:57 INFO  controllers.AddingController:15 - first value = 5.0; second value = 10.0
+2019-10-17 03:21:57 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 03:21:57 INFO  controllers.AddingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 03:21:57 INFO  controllers.AddingController:17 - result = 5.0
+2019-10-17 03:21:57 INFO  controllers.AddingController:47 - AddingControllerTests finished.
+2019-10-17 03:41:36 INFO  controllers.DescriptionController:30 - DescriptionControllerTests started.
+2019-10-17 03:41:36 INFO  controllers.DescriptionController:46 - DescriptionControllerTests finished.
+2019-10-17 03:41:50 INFO  controllers.DescriptionController:30 - DescriptionControllerTests started.
+2019-10-17 03:41:50 INFO  controllers.DescriptionController:46 - DescriptionControllerTests finished.
+2019-10-17 03:42:38 INFO  controllers.DescriptionController:28 - DescriptionControllerTests started.
+2019-10-17 03:43:01 INFO  controllers.DescriptionController:44 - DescriptionControllerTests finished.
+2019-10-17 03:43:29 INFO  controllers.DescriptionController:28 - DescriptionControllerTests started.
+2019-10-17 03:43:35 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: Sat Jan 12 00:00:00 EET 3901
+2019-10-17 03:44:02 INFO  controllers.DescriptionController:44 - DescriptionControllerTests finished.
+2019-10-17 03:47:05 INFO  controllers.DescriptionController:28 - DescriptionControllerTests started.
+2019-10-17 03:47:05 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: Sat Jan 12 00:00:00 EET 3901
+2019-10-17 03:47:05 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: Sat Jan 12 00:00:00 EET 3901
+2019-10-17 03:47:05 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Andy	Made date: Wed Nov 10 00:00:00 EET 3915
+2019-10-17 03:47:05 INFO  controllers.DescriptionController:44 - DescriptionControllerTests finished.
+2019-10-17 03:47:22 INFO  controllers.DescriptionController:28 - DescriptionControllerTests started.
+2019-10-17 03:47:36 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: Sat Jan 12 00:00:00 EET 3901
+2019-10-17 03:47:49 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: Sat Jan 12 00:00:00 EET 3901
+2019-10-17 03:48:11 INFO  controllers.DescriptionController:28 - DescriptionControllerTests started.
+2019-10-17 03:48:11 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 03:48:11 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 03:48:11 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Andy	Made date: 10 Nov 3915, 12:00:00 AM
+2019-10-17 03:48:11 INFO  controllers.DescriptionController:44 - DescriptionControllerTests finished.
+2019-10-17 03:54:11 INFO  controllers.DividingController:30 - DividingControllerTests started.
+2019-10-17 03:54:12 INFO  controllers.DividingController:48 - DividingControllerTests finished.
+2019-10-17 03:55:21 INFO  controllers.DividingController:28 - DividingControllerTests started.
+2019-10-17 03:55:21 INFO  controllers.DividingController:46 - DividingControllerTests finished.
+2019-10-17 03:55:35 INFO  controllers.DividingController:28 - DividingControllerTests started.
+2019-10-17 03:56:21 INFO  controllers.DividingController:28 - DividingControllerTests started.
+2019-10-17 03:59:27 INFO  controllers.DividingController:29 - DividingControllerTests started.
+2019-10-17 03:59:27 INFO  controllers.DividingController:47 - DividingControllerTests finished.
+2019-10-17 03:59:36 INFO  controllers.DividingController:29 - DividingControllerTests started.
+2019-10-17 03:59:36 INFO  controllers.DividingController:47 - DividingControllerTests finished.
+2019-10-17 04:01:51 INFO  controllers.AddingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 04:01:51 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 04:03:18 INFO  controllers.DividingController:29 - DividingControllerTests started.
+2019-10-17 04:03:18 INFO  controllers.DividingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 04:03:18 INFO  controllers.DividingController:23 - result = 2.0
+2019-10-17 04:03:18 INFO  controllers.DividingController:15 - first value = 5.0; second value = 5.0
+2019-10-17 04:03:18 INFO  controllers.DividingController:23 - result = 1.0
+2019-10-17 04:03:18 INFO  controllers.DividingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 04:03:18 INFO  controllers.DividingController:23 - result = -0.5
+2019-10-17 04:03:18 INFO  controllers.DividingController:47 - DividingControllerTests finished.
+2019-10-17 04:19:03 INFO  controllers.LengthController:28 - LengthControllerTests started.
+2019-10-17 04:19:03 INFO  controllers.LengthController:46 - LengthControllerTests finished.
+2019-10-17 04:19:24 INFO  controllers.LengthController:28 - LengthControllerTests started.
+2019-10-17 04:19:24 INFO  controllers.LengthController:46 - LengthControllerTests finished.
+2019-10-17 04:21:15 INFO  controllers.LengthController:29 - LengthControllerTests started.
+2019-10-17 04:21:16 INFO  controllers.LengthController:47 - LengthControllerTests finished.
+2019-10-17 04:21:47 INFO  controllers.LengthController:29 - LengthControllerTests started.
+2019-10-17 04:23:14 INFO  controllers.LengthController:30 - LengthControllerTests started.
+2019-10-17 04:23:14 INFO  controllers.LengthController:15 - Centimeters = 10.0 cm
+2019-10-17 04:23:14 INFO  controllers.LengthController:17 - Inches = 3.93700787 inch
+2019-10-17 04:23:14 INFO  controllers.LengthController:15 - Centimeters = 87.59 cm
+2019-10-17 04:23:14 INFO  controllers.LengthController:17 - Inches = 34.48425193333 inch
+2019-10-17 04:23:14 INFO  controllers.LengthController:15 - Centimeters = 998461.3 cm
+2019-10-17 04:23:14 INFO  controllers.LengthController:17 - Inches = 393094.9995990431 inch
+2019-10-17 04:23:14 INFO  controllers.LengthController:48 - LengthControllerTests finished.
+2019-10-17 04:30:00 INFO  controllers.LengthController:30 - LengthControllerTests started.
+2019-10-17 04:30:00 INFO  controllers.LengthController:15 - Centimeters = 10.0 cm
+2019-10-17 04:30:00 INFO  controllers.LengthController:17 - Inches = 3.93700787 inch
+2019-10-17 04:30:00 INFO  controllers.LengthController:15 - Centimeters = 87.59 cm
+2019-10-17 04:30:00 INFO  controllers.LengthController:17 - Inches = 34.48425193333 inch
+2019-10-17 04:30:00 INFO  controllers.LengthController:15 - Centimeters = 998461.3 cm
+2019-10-17 04:30:00 INFO  controllers.LengthController:17 - Inches = 393094.9995990431 inch
+2019-10-17 04:30:00 INFO  controllers.LengthController:48 - LengthControllerTests finished.
+2019-10-17 05:12:55 INFO  controllers.SpeedController:29 - SpeedControllerTests started.
+2019-10-17 05:12:55 INFO  controllers.SpeedController:15 - Km per Hour = 10.0 KPH
+2019-10-17 05:12:55 INFO  controllers.SpeedController:17 - Miles per Hour = 6.21371192 MPH
+2019-10-17 05:12:55 INFO  controllers.SpeedController:15 - Km per Hour = 88.5 KPH
+2019-10-17 05:12:55 INFO  controllers.SpeedController:17 - Miles per Hour = 54.991350492 MPH
+2019-10-17 05:12:55 INFO  controllers.SpeedController:15 - Km per Hour = 348.22 KPH
+2019-10-17 05:12:55 INFO  controllers.SpeedController:17 - Miles per Hour = 216.37387647824002 MPH
+2019-10-17 05:12:55 INFO  controllers.SpeedController:47 - SpeedControllerTests finished.
+2019-10-17 05:28:52 INFO  controllers.WeightController:29 - WeightControllerTests started.
+2019-10-17 05:28:52 INFO  controllers.LengthController:15 - Centimeters = 10.0 kg
+2019-10-17 05:28:52 INFO  controllers.LengthController:17 - Inches = 3.93700787 inch
+2019-10-17 05:28:52 INFO  controllers.LengthController:15 - Centimeters = 2789.0 kg
+2019-10-17 05:28:52 INFO  controllers.LengthController:17 - Inches = 1098.031494943 inch
+2019-10-17 05:28:52 INFO  controllers.LengthController:15 - Centimeters = 487647.2465 kg
+2019-10-17 05:28:52 INFO  controllers.LengthController:17 - Inches = 191987.104725433 inch
+2019-10-17 05:28:52 INFO  controllers.WeightController:47 - WeightControllerTests finished.
+2019-10-17 05:30:11 INFO  controllers.WeightController:29 - WeightControllerTests started.
+2019-10-17 05:30:11 INFO  controllers.WeightController:15 - Kilograms = 10.0 kg
+2019-10-17 05:30:11 INFO  controllers.WeightController:17 - Pounds = 22.0462262 lbs
+2019-10-17 05:30:11 INFO  controllers.WeightController:15 - Kilograms = 2789.0 kg
+2019-10-17 05:30:11 INFO  controllers.WeightController:17 - Pounds = 6148.692487179999 lbs
+2019-10-17 05:30:11 INFO  controllers.WeightController:15 - Kilograms = 487647.2465 kg
+2019-10-17 05:30:11 INFO  controllers.WeightController:17 - Pounds = 1075078.1502146157 lbs
+2019-10-17 05:30:11 INFO  controllers.WeightController:47 - WeightControllerTests finished.
+2019-10-17 05:38:58 INFO  controllers.LogController:28 - LogControllerTests started.
+2019-10-17 05:38:58 INFO  controllers.LogController:46 - LogControllerTests finished.
+2019-10-17 05:40:02 INFO  controllers.LogController:28 - LogControllerTests started.
+2019-10-17 05:40:02 INFO  controllers.LogController:15 - Value = 10.0
+2019-10-17 05:40:02 INFO  controllers.LogController:17 - Result = 1.0
+2019-10-17 05:40:02 INFO  controllers.LogController:15 - Value = 145.0
+2019-10-17 05:40:02 INFO  controllers.LogController:17 - Result = 2.161368002234975
+2019-10-17 05:40:02 INFO  controllers.LogController:15 - Value = 2.500453E7
+2019-10-17 05:40:02 INFO  controllers.LogController:17 - Result = 7.398018695703329
+2019-10-17 05:40:02 INFO  controllers.LogController:46 - LogControllerTests finished.
+2019-10-17 05:41:37 INFO  controllers.LogController:28 - LogControllerTests started.
+2019-10-17 05:41:37 INFO  controllers.LogController:15 - Value = 10.0
+2019-10-17 05:41:37 INFO  controllers.LogController:17 - Result = 1.0
+2019-10-17 05:41:37 INFO  controllers.LogController:15 - Value = 145.0
+2019-10-17 05:41:37 INFO  controllers.LogController:17 - Result = 2.161368002234975
+2019-10-17 05:41:37 INFO  controllers.LogController:15 - Value = 2.500453E7
+2019-10-17 05:41:37 INFO  controllers.LogController:17 - Result = 7.398018695703329
+2019-10-17 05:41:37 INFO  controllers.LogController:46 - LogControllerTests finished.
+2019-10-17 05:42:06 INFO  controllers.LogController:28 - LogControllerTests started.
+2019-10-17 05:42:06 INFO  controllers.LogController:15 - Value = 10.0
+2019-10-17 05:42:06 INFO  controllers.LogController:17 - Result = 1.0
+2019-10-17 05:42:07 INFO  controllers.LogController:15 - Value = 145.0
+2019-10-17 05:42:07 INFO  controllers.LogController:17 - Result = 2.161368002234975
+2019-10-17 05:42:07 INFO  controllers.LogController:15 - Value = 2.500453E7
+2019-10-17 05:42:07 INFO  controllers.LogController:17 - Result = 7.398018695703329
+2019-10-17 05:42:07 INFO  controllers.LogController:46 - LogControllerTests finished.
+2019-10-17 05:42:57 INFO  controllers.LogController:28 - LogControllerTests started.
+2019-10-17 05:42:57 INFO  controllers.LogController:15 - Value = 10.0
+2019-10-17 05:42:57 INFO  controllers.LogController:17 - Result = 1.0
+2019-10-17 05:42:57 INFO  controllers.LogController:15 - Value = 145.0
+2019-10-17 05:42:57 INFO  controllers.LogController:17 - Result = 2.161368002234975
+2019-10-17 05:42:57 INFO  controllers.LogController:15 - Value = 2.500453E7
+2019-10-17 05:42:57 INFO  controllers.LogController:17 - Result = 7.398018695703329
+2019-10-17 05:42:57 INFO  controllers.LogController:46 - LogControllerTests finished.
+2019-10-17 05:44:03 INFO  controllers.LogController:28 - LogControllerTests started.
+2019-10-17 05:44:03 INFO  controllers.LogController:15 - Value = 10.0
+2019-10-17 05:44:03 INFO  controllers.LogController:17 - Result = 1.0
+2019-10-17 05:44:04 INFO  controllers.LogController:15 - Value = 145.0
+2019-10-17 05:44:04 INFO  controllers.LogController:17 - Result = 2.161368002234975
+2019-10-17 05:44:04 INFO  controllers.LogController:15 - Value = 2.500453E7
+2019-10-17 05:44:04 INFO  controllers.LogController:17 - Result = 7.398018695703329
+2019-10-17 05:44:04 INFO  controllers.LogController:46 - LogControllerTests finished.
+2019-10-17 05:51:21 INFO  controllers.MultiplyingController:29 - MultiplyingControllerTests started.
+2019-10-17 05:51:21 INFO  controllers.MultiplyingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 05:51:21 INFO  controllers.MultiplyingController:17 - result = 50.0
+2019-10-17 05:51:21 INFO  controllers.MultiplyingController:15 - first value = 77.0; second value = 3568.0
+2019-10-17 05:51:21 INFO  controllers.MultiplyingController:17 - result = 274736.0
+2019-10-17 05:51:21 INFO  controllers.MultiplyingController:15 - first value = -3.0; second value = 39.0
+2019-10-17 05:51:21 INFO  controllers.MultiplyingController:17 - result = -117.0
+2019-10-17 05:51:21 INFO  controllers.MultiplyingController:47 - MultiplyingControllerTests finished.
+2019-10-17 05:53:11 INFO  controllers.MultiplyingController:29 - MultiplyingControllerTests started.
+2019-10-17 05:53:11 INFO  controllers.MultiplyingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 05:53:11 INFO  controllers.MultiplyingController:17 - result = 50.0
+2019-10-17 05:53:11 INFO  controllers.MultiplyingController:15 - first value = -77.0; second value = -3568.0
+2019-10-17 05:53:11 INFO  controllers.MultiplyingController:17 - result = 274736.0
+2019-10-17 05:53:11 INFO  controllers.MultiplyingController:15 - first value = -3.0; second value = 39.0
+2019-10-17 05:53:11 INFO  controllers.MultiplyingController:17 - result = -117.0
+2019-10-17 05:53:11 INFO  controllers.MultiplyingController:47 - MultiplyingControllerTests finished.
+2019-10-17 06:47:15 INFO  controllers.PowerController:28 - PowerControllerTests started.
+2019-10-17 06:47:15 INFO  controllers.PowerController:14 - Value = 2.0
+2019-10-17 06:47:15 INFO  controllers.PowerController:16 - Result = 4.0
+2019-10-17 06:47:15 INFO  controllers.PowerController:14 - Value = -5.0
+2019-10-17 06:47:15 INFO  controllers.PowerController:16 - Result = -3125.0
+2019-10-17 06:47:15 INFO  controllers.PowerController:14 - Value = 7.398
+2019-10-17 06:47:15 INFO  controllers.PowerController:16 - Result = 7199660.866536089
+2019-10-17 06:47:15 INFO  controllers.PowerController:46 - PowerControllerTests finished.
+2019-10-17 06:54:24 INFO  controllers.SubtractionController:29 - SubtractionControllerTests started.
+2019-10-17 06:54:24 INFO  controllers.SubtractionController:15 - first value = 10.0; second value = 5.0
+2019-10-17 06:54:24 INFO  controllers.SubtractionController:17 - result = 5.0
+2019-10-17 06:54:24 INFO  controllers.SubtractionController:15 - first value = 5.0; second value = 10.0
+2019-10-17 06:54:24 INFO  controllers.SubtractionController:17 - result = -5.0
+2019-10-17 06:54:24 INFO  controllers.SubtractionController:15 - first value = -5.0; second value = 10.0
+2019-10-17 06:54:24 INFO  controllers.SubtractionController:17 - result = -15.0
+2019-10-17 06:54:24 INFO  controllers.SubtractionController:47 - SubtractionControllerTests finished.
+2019-10-17 06:55:10 INFO  controllers.AddingController:29 - AddingControllerTests started.
+2019-10-17 06:55:10 INFO  controllers.AddingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 06:55:10 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 06:55:10 INFO  controllers.AddingController:15 - first value = 5.0; second value = 10.0
+2019-10-17 06:55:10 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 06:55:10 INFO  controllers.AddingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 06:55:10 INFO  controllers.AddingController:17 - result = 5.0
+2019-10-17 06:55:10 INFO  controllers.AddingController:47 - AddingControllerTests finished.
+2019-10-17 07:01:41 INFO  controllers.AddingController:29 - AddingControllerTests started.
+2019-10-17 07:01:41 INFO  controllers.AddingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:01:41 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 07:01:41 INFO  controllers.AddingController:15 - first value = 5.0; second value = 10.0
+2019-10-17 07:01:41 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 07:01:41 INFO  controllers.AddingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 07:01:41 INFO  controllers.AddingController:17 - result = 5.0
+2019-10-17 07:01:41 INFO  controllers.AddingController:47 - AddingControllerTests finished.
+2019-10-17 07:01:42 INFO  controllers.DescriptionController:28 - DescriptionControllerTests started.
+2019-10-17 07:01:42 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 07:01:42 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 07:01:42 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Andy	Made date: 10 Nov 3915, 12:00:00 AM
+2019-10-17 07:01:42 INFO  controllers.DescriptionController:44 - DescriptionControllerTests finished.
+2019-10-17 07:01:43 INFO  controllers.DividingController:29 - DividingControllerTests started.
+2019-10-17 07:01:43 INFO  controllers.DividingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:01:43 INFO  controllers.DividingController:23 - result = 2.0
+2019-10-17 07:01:43 INFO  controllers.DividingController:15 - first value = 5.0; second value = 5.0
+2019-10-17 07:01:43 INFO  controllers.DividingController:23 - result = 1.0
+2019-10-17 07:01:43 INFO  controllers.DividingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 07:01:43 INFO  controllers.DividingController:23 - result = -0.5
+2019-10-17 07:01:43 INFO  controllers.DividingController:47 - DividingControllerTests finished.
+2019-10-17 07:01:44 INFO  controllers.LengthController:30 - LengthControllerTests started.
+2019-10-17 07:01:44 INFO  controllers.LengthController:15 - Centimeters = 10.0 cm
+2019-10-17 07:01:44 INFO  controllers.LengthController:17 - Inches = 3.93700787 inch
+2019-10-17 07:01:44 INFO  controllers.LengthController:15 - Centimeters = 87.59 cm
+2019-10-17 07:01:44 INFO  controllers.LengthController:17 - Inches = 34.48425193333 inch
+2019-10-17 07:01:44 INFO  controllers.LengthController:15 - Centimeters = 998461.3 cm
+2019-10-17 07:01:44 INFO  controllers.LengthController:17 - Inches = 393094.9995990431 inch
+2019-10-17 07:01:44 INFO  controllers.LengthController:48 - LengthControllerTests finished.
+2019-10-17 07:01:44 INFO  controllers.LogController:28 - LogControllerTests started.
+2019-10-17 07:01:44 INFO  controllers.LogController:15 - Value = 10.0
+2019-10-17 07:01:44 INFO  controllers.LogController:17 - Result = 1.0
+2019-10-17 07:01:44 INFO  controllers.LogController:15 - Value = 145.0
+2019-10-17 07:01:44 INFO  controllers.LogController:17 - Result = 2.161368002234975
+2019-10-17 07:01:44 INFO  controllers.LogController:15 - Value = 2.500453E7
+2019-10-17 07:01:44 INFO  controllers.LogController:17 - Result = 7.398018695703329
+2019-10-17 07:01:44 INFO  controllers.LogController:46 - LogControllerTests finished.
+2019-10-17 07:01:45 INFO  controllers.MultiplyingController:29 - MultiplyingControllerTests started.
+2019-10-17 07:01:45 INFO  controllers.MultiplyingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:01:45 INFO  controllers.MultiplyingController:17 - result = 50.0
+2019-10-17 07:01:45 INFO  controllers.MultiplyingController:15 - first value = -77.0; second value = -3568.0
+2019-10-17 07:01:45 INFO  controllers.MultiplyingController:17 - result = 274736.0
+2019-10-17 07:01:45 INFO  controllers.MultiplyingController:15 - first value = -3.0; second value = 39.0
+2019-10-17 07:01:45 INFO  controllers.MultiplyingController:17 - result = -117.0
+2019-10-17 07:01:45 INFO  controllers.MultiplyingController:47 - MultiplyingControllerTests finished.
+2019-10-17 07:01:46 INFO  controllers.PowerController:28 - PowerControllerTests started.
+2019-10-17 07:01:46 INFO  controllers.PowerController:14 - Value = 2.0
+2019-10-17 07:01:46 INFO  controllers.PowerController:16 - Result = 4.0
+2019-10-17 07:01:46 INFO  controllers.PowerController:14 - Value = -5.0
+2019-10-17 07:01:46 INFO  controllers.PowerController:16 - Result = -3125.0
+2019-10-17 07:01:46 INFO  controllers.PowerController:14 - Value = 7.398
+2019-10-17 07:01:46 INFO  controllers.PowerController:16 - Result = 7199660.866536089
+2019-10-17 07:01:46 INFO  controllers.PowerController:46 - PowerControllerTests finished.
+2019-10-17 07:01:46 INFO  controllers.SpeedController:29 - SpeedControllerTests started.
+2019-10-17 07:01:46 INFO  controllers.SpeedController:15 - Km per Hour = 10.0 KPH
+2019-10-17 07:01:46 INFO  controllers.SpeedController:17 - Miles per Hour = 6.21371192 MPH
+2019-10-17 07:01:47 INFO  controllers.SpeedController:15 - Km per Hour = 88.5 KPH
+2019-10-17 07:01:47 INFO  controllers.SpeedController:17 - Miles per Hour = 54.991350492 MPH
+2019-10-17 07:01:47 INFO  controllers.SpeedController:15 - Km per Hour = 348.22 KPH
+2019-10-17 07:01:47 INFO  controllers.SpeedController:17 - Miles per Hour = 216.37387647824002 MPH
+2019-10-17 07:01:47 INFO  controllers.SpeedController:47 - SpeedControllerTests finished.
+2019-10-17 07:01:47 INFO  controllers.SubtractionController:29 - SubtractionControllerTests started.
+2019-10-17 07:01:47 INFO  controllers.SubtractionController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:01:47 INFO  controllers.SubtractionController:17 - result = 5.0
+2019-10-17 07:01:47 INFO  controllers.SubtractionController:15 - first value = 5.0; second value = 10.0
+2019-10-17 07:01:47 INFO  controllers.SubtractionController:17 - result = -5.0
+2019-10-17 07:01:47 INFO  controllers.SubtractionController:15 - first value = -5.0; second value = 10.0
+2019-10-17 07:01:47 INFO  controllers.SubtractionController:17 - result = -15.0
+2019-10-17 07:01:47 INFO  controllers.SubtractionController:47 - SubtractionControllerTests finished.
+2019-10-17 07:01:48 INFO  controllers.WeightController:29 - WeightControllerTests started.
+2019-10-17 07:01:48 INFO  controllers.WeightController:15 - Kilograms = 10.0 kg
+2019-10-17 07:01:48 INFO  controllers.WeightController:17 - Pounds = 22.0462262 lbs
+2019-10-17 07:01:48 INFO  controllers.WeightController:15 - Kilograms = 2789.0 kg
+2019-10-17 07:01:48 INFO  controllers.WeightController:17 - Pounds = 6148.692487179999 lbs
+2019-10-17 07:01:48 INFO  controllers.WeightController:15 - Kilograms = 487647.2465 kg
+2019-10-17 07:01:48 INFO  controllers.WeightController:17 - Pounds = 1075078.1502146157 lbs
+2019-10-17 07:01:48 INFO  controllers.WeightController:47 - WeightControllerTests finished.
+2019-10-17 07:02:17 INFO  controllers.AddingController:29 - AddingControllerTests started.
+2019-10-17 07:02:17 INFO  controllers.AddingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:02:17 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 07:02:17 INFO  controllers.AddingController:15 - first value = 5.0; second value = 10.0
+2019-10-17 07:02:17 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 07:02:17 INFO  controllers.AddingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 07:02:17 INFO  controllers.AddingController:17 - result = 5.0
+2019-10-17 07:02:17 INFO  controllers.AddingController:47 - AddingControllerTests finished.
+2019-10-17 07:02:18 INFO  controllers.DescriptionController:28 - DescriptionControllerTests started.
+2019-10-17 07:02:18 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 07:02:18 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 07:02:18 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Andy	Made date: 10 Nov 3915, 12:00:00 AM
+2019-10-17 07:02:18 INFO  controllers.DescriptionController:44 - DescriptionControllerTests finished.
+2019-10-17 07:02:19 INFO  controllers.DividingController:29 - DividingControllerTests started.
+2019-10-17 07:02:19 INFO  controllers.DividingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:02:19 INFO  controllers.DividingController:23 - result = 2.0
+2019-10-17 07:02:19 INFO  controllers.DividingController:15 - first value = 5.0; second value = 5.0
+2019-10-17 07:02:19 INFO  controllers.DividingController:23 - result = 1.0
+2019-10-17 07:02:19 INFO  controllers.DividingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 07:02:19 INFO  controllers.DividingController:23 - result = -0.5
+2019-10-17 07:02:19 INFO  controllers.DividingController:47 - DividingControllerTests finished.
+2019-10-17 07:02:20 INFO  controllers.LengthController:30 - LengthControllerTests started.
+2019-10-17 07:02:20 INFO  controllers.LengthController:15 - Centimeters = 10.0 cm
+2019-10-17 07:02:20 INFO  controllers.LengthController:17 - Inches = 3.93700787 inch
+2019-10-17 07:02:20 INFO  controllers.LengthController:15 - Centimeters = 87.59 cm
+2019-10-17 07:02:20 INFO  controllers.LengthController:17 - Inches = 34.48425193333 inch
+2019-10-17 07:02:20 INFO  controllers.LengthController:15 - Centimeters = 998461.3 cm
+2019-10-17 07:02:20 INFO  controllers.LengthController:17 - Inches = 393094.9995990431 inch
+2019-10-17 07:02:20 INFO  controllers.LengthController:48 - LengthControllerTests finished.
+2019-10-17 07:02:20 INFO  controllers.LogController:28 - LogControllerTests started.
+2019-10-17 07:02:20 INFO  controllers.LogController:15 - Value = 10.0
+2019-10-17 07:02:20 INFO  controllers.LogController:17 - Result = 1.0
+2019-10-17 07:02:20 INFO  controllers.LogController:15 - Value = 145.0
+2019-10-17 07:02:20 INFO  controllers.LogController:17 - Result = 2.161368002234975
+2019-10-17 07:02:20 INFO  controllers.LogController:15 - Value = 2.500453E7
+2019-10-17 07:02:20 INFO  controllers.LogController:17 - Result = 7.398018695703329
+2019-10-17 07:02:20 INFO  controllers.LogController:46 - LogControllerTests finished.
+2019-10-17 07:02:21 INFO  controllers.MultiplyingController:29 - MultiplyingControllerTests started.
+2019-10-17 07:02:21 INFO  controllers.MultiplyingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:02:21 INFO  controllers.MultiplyingController:17 - result = 50.0
+2019-10-17 07:02:21 INFO  controllers.MultiplyingController:15 - first value = -77.0; second value = -3568.0
+2019-10-17 07:02:21 INFO  controllers.MultiplyingController:17 - result = 274736.0
+2019-10-17 07:02:21 INFO  controllers.MultiplyingController:15 - first value = -3.0; second value = 39.0
+2019-10-17 07:02:21 INFO  controllers.MultiplyingController:17 - result = -117.0
+2019-10-17 07:02:21 INFO  controllers.MultiplyingController:47 - MultiplyingControllerTests finished.
+2019-10-17 07:02:22 INFO  controllers.PowerController:28 - PowerControllerTests started.
+2019-10-17 07:02:22 INFO  controllers.PowerController:14 - Value = 2.0
+2019-10-17 07:02:22 INFO  controllers.PowerController:16 - Result = 4.0
+2019-10-17 07:02:22 INFO  controllers.PowerController:14 - Value = -5.0
+2019-10-17 07:02:22 INFO  controllers.PowerController:16 - Result = -3125.0
+2019-10-17 07:02:22 INFO  controllers.PowerController:14 - Value = 7.398
+2019-10-17 07:02:22 INFO  controllers.PowerController:16 - Result = 7199660.866536089
+2019-10-17 07:02:22 INFO  controllers.PowerController:46 - PowerControllerTests finished.
+2019-10-17 07:02:23 INFO  controllers.SpeedController:29 - SpeedControllerTests started.
+2019-10-17 07:02:23 INFO  controllers.SpeedController:15 - Km per Hour = 10.0 KPH
+2019-10-17 07:02:23 INFO  controllers.SpeedController:17 - Miles per Hour = 6.21371192 MPH
+2019-10-17 07:02:23 INFO  controllers.SpeedController:15 - Km per Hour = 88.5 KPH
+2019-10-17 07:02:23 INFO  controllers.SpeedController:17 - Miles per Hour = 54.991350492 MPH
+2019-10-17 07:02:23 INFO  controllers.SpeedController:15 - Km per Hour = 348.22 KPH
+2019-10-17 07:02:23 INFO  controllers.SpeedController:17 - Miles per Hour = 216.37387647824002 MPH
+2019-10-17 07:02:23 INFO  controllers.SpeedController:47 - SpeedControllerTests finished.
+2019-10-17 07:02:23 INFO  controllers.SubtractionController:29 - SubtractionControllerTests started.
+2019-10-17 07:02:23 INFO  controllers.SubtractionController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:02:23 INFO  controllers.SubtractionController:17 - result = 5.0
+2019-10-17 07:02:23 INFO  controllers.SubtractionController:15 - first value = 5.0; second value = 10.0
+2019-10-17 07:02:23 INFO  controllers.SubtractionController:17 - result = -5.0
+2019-10-17 07:02:23 INFO  controllers.SubtractionController:15 - first value = -5.0; second value = 10.0
+2019-10-17 07:02:23 INFO  controllers.SubtractionController:17 - result = -15.0
+2019-10-17 07:02:23 INFO  controllers.SubtractionController:47 - SubtractionControllerTests finished.
+2019-10-17 07:02:24 INFO  controllers.WeightController:29 - WeightControllerTests started.
+2019-10-17 07:02:24 INFO  controllers.WeightController:15 - Kilograms = 10.0 kg
+2019-10-17 07:02:24 INFO  controllers.WeightController:17 - Pounds = 22.0462262 lbs
+2019-10-17 07:02:24 INFO  controllers.WeightController:15 - Kilograms = 2789.0 kg
+2019-10-17 07:02:24 INFO  controllers.WeightController:17 - Pounds = 6148.692487179999 lbs
+2019-10-17 07:02:24 INFO  controllers.WeightController:15 - Kilograms = 487647.2465 kg
+2019-10-17 07:02:24 INFO  controllers.WeightController:17 - Pounds = 1075078.1502146157 lbs
+2019-10-17 07:02:24 INFO  controllers.WeightController:47 - WeightControllerTests finished.
+2019-10-17 07:03:54 INFO  controllers.DescriptionController:28 - DescriptionControllerTests started.
+2019-10-17 07:03:54 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 07:03:54 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 07:03:54 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Andy	Made date: 10 Nov 3915, 12:00:00 AM
+2019-10-17 07:03:54 INFO  controllers.DescriptionController:44 - DescriptionControllerTests finished.
+2019-10-17 07:04:42 INFO  controllers.AddingController:29 - AddingControllerTests started.
+2019-10-17 07:04:42 INFO  controllers.AddingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:04:42 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 07:04:42 INFO  controllers.AddingController:15 - first value = 5.0; second value = 10.0
+2019-10-17 07:04:42 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 07:04:42 INFO  controllers.AddingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 07:04:42 INFO  controllers.AddingController:17 - result = 5.0
+2019-10-17 07:04:42 INFO  controllers.AddingController:47 - AddingControllerTests finished.
+2019-10-17 07:04:44 INFO  controllers.DescriptionController:28 - DescriptionControllerTests started.
+2019-10-17 07:04:44 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 07:04:44 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 07:04:44 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Andy	Made date: 10 Nov 3915, 12:00:00 AM
+2019-10-17 07:04:44 INFO  controllers.DescriptionController:44 - DescriptionControllerTests finished.
+2019-10-17 07:04:45 INFO  controllers.DividingController:29 - DividingControllerTests started.
+2019-10-17 07:04:45 INFO  controllers.DividingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:04:45 INFO  controllers.DividingController:23 - result = 2.0
+2019-10-17 07:04:45 INFO  controllers.DividingController:15 - first value = 5.0; second value = 5.0
+2019-10-17 07:04:45 INFO  controllers.DividingController:23 - result = 1.0
+2019-10-17 07:04:45 INFO  controllers.DividingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 07:04:45 INFO  controllers.DividingController:23 - result = -0.5
+2019-10-17 07:04:45 INFO  controllers.DividingController:47 - DividingControllerTests finished.
+2019-10-17 07:04:46 INFO  controllers.LengthController:30 - LengthControllerTests started.
+2019-10-17 07:04:46 INFO  controllers.LengthController:15 - Centimeters = 10.0 cm
+2019-10-17 07:04:46 INFO  controllers.LengthController:17 - Inches = 3.93700787 inch
+2019-10-17 07:04:46 INFO  controllers.LengthController:15 - Centimeters = 87.59 cm
+2019-10-17 07:04:46 INFO  controllers.LengthController:17 - Inches = 34.48425193333 inch
+2019-10-17 07:04:46 INFO  controllers.LengthController:15 - Centimeters = 998461.3 cm
+2019-10-17 07:04:46 INFO  controllers.LengthController:17 - Inches = 393094.9995990431 inch
+2019-10-17 07:04:46 INFO  controllers.LengthController:48 - LengthControllerTests finished.
+2019-10-17 07:04:47 INFO  controllers.LogController:28 - LogControllerTests started.
+2019-10-17 07:04:47 INFO  controllers.LogController:15 - Value = 10.0
+2019-10-17 07:04:47 INFO  controllers.LogController:17 - Result = 1.0
+2019-10-17 07:04:47 INFO  controllers.LogController:15 - Value = 145.0
+2019-10-17 07:04:47 INFO  controllers.LogController:17 - Result = 2.161368002234975
+2019-10-17 07:04:47 INFO  controllers.LogController:15 - Value = 2.500453E7
+2019-10-17 07:04:47 INFO  controllers.LogController:17 - Result = 7.398018695703329
+2019-10-17 07:04:47 INFO  controllers.LogController:46 - LogControllerTests finished.
+2019-10-17 07:04:48 INFO  controllers.MultiplyingController:29 - MultiplyingControllerTests started.
+2019-10-17 07:04:48 INFO  controllers.MultiplyingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:04:48 INFO  controllers.MultiplyingController:17 - result = 50.0
+2019-10-17 07:04:48 INFO  controllers.MultiplyingController:15 - first value = -77.0; second value = -3568.0
+2019-10-17 07:04:48 INFO  controllers.MultiplyingController:17 - result = 274736.0
+2019-10-17 07:04:48 INFO  controllers.MultiplyingController:15 - first value = -3.0; second value = 39.0
+2019-10-17 07:04:48 INFO  controllers.MultiplyingController:17 - result = -117.0
+2019-10-17 07:04:48 INFO  controllers.MultiplyingController:47 - MultiplyingControllerTests finished.
+2019-10-17 07:04:48 INFO  controllers.PowerController:28 - PowerControllerTests started.
+2019-10-17 07:04:48 INFO  controllers.PowerController:14 - Value = 2.0
+2019-10-17 07:04:48 INFO  controllers.PowerController:16 - Result = 4.0
+2019-10-17 07:04:48 INFO  controllers.PowerController:14 - Value = -5.0
+2019-10-17 07:04:48 INFO  controllers.PowerController:16 - Result = -3125.0
+2019-10-17 07:04:48 INFO  controllers.PowerController:14 - Value = 7.398
+2019-10-17 07:04:48 INFO  controllers.PowerController:16 - Result = 7199660.866536089
+2019-10-17 07:04:48 INFO  controllers.PowerController:46 - PowerControllerTests finished.
+2019-10-17 07:04:49 INFO  controllers.SpeedController:29 - SpeedControllerTests started.
+2019-10-17 07:04:49 INFO  controllers.SpeedController:15 - Km per Hour = 10.0 KPH
+2019-10-17 07:04:49 INFO  controllers.SpeedController:17 - Miles per Hour = 6.21371192 MPH
+2019-10-17 07:04:49 INFO  controllers.SpeedController:15 - Km per Hour = 88.5 KPH
+2019-10-17 07:04:49 INFO  controllers.SpeedController:17 - Miles per Hour = 54.991350492 MPH
+2019-10-17 07:04:49 INFO  controllers.SpeedController:15 - Km per Hour = 348.22 KPH
+2019-10-17 07:04:49 INFO  controllers.SpeedController:17 - Miles per Hour = 216.37387647824002 MPH
+2019-10-17 07:04:49 INFO  controllers.SpeedController:47 - SpeedControllerTests finished.
+2019-10-17 07:04:50 INFO  controllers.SubtractionController:29 - SubtractionControllerTests started.
+2019-10-17 07:04:50 INFO  controllers.SubtractionController:15 - first value = 10.0; second value = 5.0
+2019-10-17 07:04:50 INFO  controllers.SubtractionController:17 - result = 5.0
+2019-10-17 07:04:50 INFO  controllers.SubtractionController:15 - first value = 5.0; second value = 10.0
+2019-10-17 07:04:50 INFO  controllers.SubtractionController:17 - result = -5.0
+2019-10-17 07:04:50 INFO  controllers.SubtractionController:15 - first value = -5.0; second value = 10.0
+2019-10-17 07:04:50 INFO  controllers.SubtractionController:17 - result = -15.0
+2019-10-17 07:04:50 INFO  controllers.SubtractionController:47 - SubtractionControllerTests finished.
+2019-10-17 07:04:51 INFO  controllers.WeightController:29 - WeightControllerTests started.
+2019-10-17 07:04:51 INFO  controllers.WeightController:15 - Kilograms = 10.0 kg
+2019-10-17 07:04:51 INFO  controllers.WeightController:17 - Pounds = 22.0462262 lbs
+2019-10-17 07:04:51 INFO  controllers.WeightController:15 - Kilograms = 2789.0 kg
+2019-10-17 07:04:51 INFO  controllers.WeightController:17 - Pounds = 6148.692487179999 lbs
+2019-10-17 07:04:51 INFO  controllers.WeightController:15 - Kilograms = 487647.2465 kg
+2019-10-17 07:04:51 INFO  controllers.WeightController:17 - Pounds = 1075078.1502146157 lbs
+2019-10-17 07:04:51 INFO  controllers.WeightController:47 - WeightControllerTests finished.
+2019-10-17 10:07:56 INFO  controllers.AddingController:29 - AddingControllerTests started.
+2019-10-17 10:07:56 INFO  controllers.AddingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 10:07:56 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 10:07:56 INFO  controllers.AddingController:15 - first value = 5.0; second value = 10.0
+2019-10-17 10:07:56 INFO  controllers.AddingController:17 - result = 15.0
+2019-10-17 10:07:56 INFO  controllers.AddingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 10:07:56 INFO  controllers.AddingController:17 - result = 5.0
+2019-10-17 10:07:56 INFO  controllers.AddingController:47 - AddingControllerTests finished.
+2019-10-17 10:07:58 INFO  controllers.DescriptionController:28 - DescriptionControllerTests started.
+2019-10-17 10:07:58 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 10:07:58 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Test	Made date: 12 Jan 3901, 12:00:00 AM
+2019-10-17 10:07:58 INFO  controllers.DescriptionController:27 - description = controllers: Adding
+Dividing
+Log
+Multiplying
+Power
+Subtraction
+Description
+
+Made by: Andy	Made date: 10 Nov 3915, 12:00:00 AM
+2019-10-17 10:07:58 INFO  controllers.DescriptionController:44 - DescriptionControllerTests finished.
+2019-10-17 10:07:58 INFO  controllers.DividingController:29 - DividingControllerTests started.
+2019-10-17 10:07:58 INFO  controllers.DividingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 10:07:58 INFO  controllers.DividingController:23 - result = 2.0
+2019-10-17 10:07:58 INFO  controllers.DividingController:15 - first value = 5.0; second value = 5.0
+2019-10-17 10:07:58 INFO  controllers.DividingController:23 - result = 1.0
+2019-10-17 10:07:58 INFO  controllers.DividingController:15 - first value = -5.0; second value = 10.0
+2019-10-17 10:07:58 INFO  controllers.DividingController:23 - result = -0.5
+2019-10-17 10:07:58 INFO  controllers.DividingController:47 - DividingControllerTests finished.
+2019-10-17 10:07:59 INFO  controllers.LengthController:30 - LengthControllerTests started.
+2019-10-17 10:07:59 INFO  controllers.LengthController:15 - Centimeters = 10.0 cm
+2019-10-17 10:07:59 INFO  controllers.LengthController:17 - Inches = 3.93700787 inch
+2019-10-17 10:07:59 INFO  controllers.LengthController:15 - Centimeters = 87.59 cm
+2019-10-17 10:07:59 INFO  controllers.LengthController:17 - Inches = 34.48425193333 inch
+2019-10-17 10:07:59 INFO  controllers.LengthController:15 - Centimeters = 998461.3 cm
+2019-10-17 10:07:59 INFO  controllers.LengthController:17 - Inches = 393094.9995990431 inch
+2019-10-17 10:07:59 INFO  controllers.LengthController:48 - LengthControllerTests finished.
+2019-10-17 10:08:00 INFO  controllers.LogController:28 - LogControllerTests started.
+2019-10-17 10:08:01 INFO  controllers.LogController:15 - Value = 10.0
+2019-10-17 10:08:01 INFO  controllers.LogController:17 - Result = 1.0
+2019-10-17 10:08:01 INFO  controllers.LogController:15 - Value = 145.0
+2019-10-17 10:08:01 INFO  controllers.LogController:17 - Result = 2.161368002234975
+2019-10-17 10:08:01 INFO  controllers.LogController:15 - Value = 2.500453E7
+2019-10-17 10:08:01 INFO  controllers.LogController:17 - Result = 7.398018695703329
+2019-10-17 10:08:01 INFO  controllers.LogController:46 - LogControllerTests finished.
+2019-10-17 10:08:02 INFO  controllers.MultiplyingController:29 - MultiplyingControllerTests started.
+2019-10-17 10:08:02 INFO  controllers.MultiplyingController:15 - first value = 10.0; second value = 5.0
+2019-10-17 10:08:02 INFO  controllers.MultiplyingController:17 - result = 50.0
+2019-10-17 10:08:02 INFO  controllers.MultiplyingController:15 - first value = -77.0; second value = -3568.0
+2019-10-17 10:08:02 INFO  controllers.MultiplyingController:17 - result = 274736.0
+2019-10-17 10:08:02 INFO  controllers.MultiplyingController:15 - first value = -3.0; second value = 39.0
+2019-10-17 10:08:02 INFO  controllers.MultiplyingController:17 - result = -117.0
+2019-10-17 10:08:02 INFO  controllers.MultiplyingController:47 - MultiplyingControllerTests finished.
+2019-10-17 10:08:03 INFO  controllers.PowerController:28 - PowerControllerTests started.
+2019-10-17 10:08:03 INFO  controllers.PowerController:14 - Value = 2.0
+2019-10-17 10:08:03 INFO  controllers.PowerController:16 - Result = 4.0
+2019-10-17 10:08:03 INFO  controllers.PowerController:14 - Value = -5.0
+2019-10-17 10:08:03 INFO  controllers.PowerController:16 - Result = -3125.0
+2019-10-17 10:08:03 INFO  controllers.PowerController:14 - Value = 7.398
+2019-10-17 10:08:03 INFO  controllers.PowerController:16 - Result = 7199660.866536089
+2019-10-17 10:08:03 INFO  controllers.PowerController:46 - PowerControllerTests finished.
+2019-10-17 10:08:04 INFO  controllers.SpeedController:29 - SpeedControllerTests started.
+2019-10-17 10:08:04 INFO  controllers.SpeedController:15 - Km per Hour = 10.0 KPH
+2019-10-17 10:08:04 INFO  controllers.SpeedController:17 - Miles per Hour = 6.21371192 MPH
+2019-10-17 10:08:04 INFO  controllers.SpeedController:15 - Km per Hour = 88.5 KPH
+2019-10-17 10:08:04 INFO  controllers.SpeedController:17 - Miles per Hour = 54.991350492 MPH
+2019-10-17 10:08:04 INFO  controllers.SpeedController:15 - Km per Hour = 348.22 KPH
+2019-10-17 10:08:04 INFO  controllers.SpeedController:17 - Miles per Hour = 216.37387647824002 MPH
+2019-10-17 10:08:04 INFO  controllers.SpeedController:47 - SpeedControllerTests finished.
+2019-10-17 10:08:05 INFO  controllers.SubtractionController:29 - SubtractionControllerTests started.
+2019-10-17 10:08:05 INFO  controllers.SubtractionController:15 - first value = 10.0; second value = 5.0
+2019-10-17 10:08:05 INFO  controllers.SubtractionController:17 - result = 5.0
+2019-10-17 10:08:05 INFO  controllers.SubtractionController:15 - first value = 5.0; second value = 10.0
+2019-10-17 10:08:05 INFO  controllers.SubtractionController:17 - result = -5.0
+2019-10-17 10:08:05 INFO  controllers.SubtractionController:15 - first value = -5.0; second value = 10.0
+2019-10-17 10:08:05 INFO  controllers.SubtractionController:17 - result = -15.0
+2019-10-17 10:08:05 INFO  controllers.SubtractionController:47 - SubtractionControllerTests finished.
+2019-10-17 10:08:06 INFO  controllers.WeightController:29 - WeightControllerTests started.
+2019-10-17 10:08:06 INFO  controllers.WeightController:15 - Kilograms = 10.0 kg
+2019-10-17 10:08:06 INFO  controllers.WeightController:17 - Pounds = 22.0462262 lbs
+2019-10-17 10:08:06 INFO  controllers.WeightController:15 - Kilograms = 2789.0 kg
+2019-10-17 10:08:06 INFO  controllers.WeightController:17 - Pounds = 6148.692487179999 lbs
+2019-10-17 10:08:06 INFO  controllers.WeightController:15 - Kilograms = 487647.2465 kg
+2019-10-17 10:08:06 INFO  controllers.WeightController:17 - Pounds = 1075078.1502146157 lbs
+2019-10-17 10:08:06 INFO  controllers.WeightController:47 - WeightControllerTests finished.

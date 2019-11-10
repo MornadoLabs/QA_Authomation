@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="MainSuite" verbose="1" >
+    <test name="Adding">
+        <classes>
+            <class name="com.lab2.server.AddingControllerTests"/>
+        </classes>
+    </test>
+    <test name="Description">
+        <classes>
+            <class name="com.lab2.server.DescriptionControllerTests"/>
+        </classes>
+    </test>
+    <test name="Dividing">
+        <classes>
+            <class name="com.lab2.server.DividingControllerTests"/>
+        </classes>
+    </test>
+    <test name="Length">
+        <classes>
+            <class name="com.lab2.server.LengthControllerTests"/>
+        </classes>
+    </test>
+    <test name="Log">
+        <classes>
+            <class name="com.lab2.server.LogControllerTests"/>
+        </classes>
+    </test>
+    <test name="Multiplying">
+        <classes>
+            <class name="com.lab2.server.MultiplyingControllerTests"/>
+        </classes>
+    </test>
+    <test name="Power">
+        <classes>
+            <class name="com.lab2.server.PowerControllerTests"/>
+        </classes>
+    </test>
+    <test name="Speed">
+        <classes>
+            <class name="com.lab2.server.SpeedControllerTests"/>
+        </classes>
+    </test>
+    <test name="Subtraction">
+        <classes>
+            <class name="com.lab2.server.SubtractionControllerTests"/>
+        </classes>
+    </test>
+    <test name="Weight">
+        <classes>
+            <class name="com.lab2.server.WeightControllerTests"/>
+        </classes>
+    </test>
+</suite>

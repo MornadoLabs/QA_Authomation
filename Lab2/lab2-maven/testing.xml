@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="MainSuite" verbose="1" >
+    <test name="CalculateLog">
+        <classes>
+            <class name="com.lavieennoir.qa.lab2.CalculateLogControllerTest"/>
+        </classes>
+    </test>
+    <test name="CalculatePower">
+        <classes>
+            <class name="com.lavieennoir.qa.lab2.CalculatePowerControllerTest"/>
+        </classes>
+    </test>
+    <test name="Currency">
+        <classes>
+            <class name="com.lavieennoir.qa.lab2.CurrencyControllerTest"/>
+        </classes>
+    </test>
+    <test name="DecToHex">
+        <classes>
+            <class name="com.lavieennoir.qa.lab2.DecToHexControllerTest"/>
+        </classes>
+    </test>
+    <test name="Evaluate">
+        <classes>
+            <class name="com.lavieennoir.qa.lab2.EvaluateControllerTest"/>
+        </classes>
+    </test>
+    <test name="Factorial">
+        <classes>
+            <class name="com.lavieennoir.qa.lab2.FactorialControllerTest"/>
+        </classes>
+    </test>
+    <test name="Home">
+        <classes>
+            <class name="com.lavieennoir.qa.lab2.HomeControllerTest"/>
+        </classes>
+    </test>
+    <test name="RNG">
+        <classes>
+            <class name="com.lavieennoir.qa.lab2.RNGControllerTest"/>
+        </classes>
+    </test>
+    <test name="SimpleCalculator">
+        <classes>
+            <class name="com.lavieennoir.qa.lab2.SimpleCalculatorControllerTest"/>
+        </classes>
+    </test>
+    <test name="SqrComplex">
+        <classes>
+            <class name="com.lavieennoir.qa.lab2.SqrComplexControllerTest"/>
+        </classes>
+    </test>
+</suite>

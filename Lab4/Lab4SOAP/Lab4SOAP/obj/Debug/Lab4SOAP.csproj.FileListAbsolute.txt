@@ -1,0 +1,39 @@
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\Lab4SOAP.dll.config
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\Lab4SOAP.dll
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\Lab4SOAP.pdb
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\obj\Debug\Lab4SOAP.csprojAssemblyReference.cache
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\obj\Debug\Lab4SOAP.csproj.CoreCompileInputs.cache
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\obj\Debug\Lab4SOAP.csproj.CopyComplete
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\obj\Debug\Lab4SOAP.dll
+D:\Study\QA\labs\gs-rest-service\Lab4SOAP\Lab4SOAP\obj\Debug\Lab4SOAP.pdb
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\Lab4SOAP.dll.config
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\Lab4SOAP.dll
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\Lab4SOAP.pdb
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\obj\Debug\Lab4SOAP.csproj.CoreCompileInputs.cache
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\obj\Debug\Lab4SOAP.csproj.CopyComplete
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\obj\Debug\Lab4SOAP.dll
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\obj\Debug\Lab4SOAP.pdb
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\nunit.framework.dll
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\nunit.framework.pdb
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\nunit.framework.xml
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\NLog.config
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\NLog.dll
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\bin\Debug\NLog.xml
+D:\Learning\Major\5 cource\1 semester\QA Automation\Lab4\Lab4SOAP\Lab4SOAP\obj\Debug\Lab4SOAP.csprojAssemblyReference.cache

@@ -1,0 +1,164 @@
+2019-10-27 22:36:15.0400|INFO|Lab4SOAP.Tests.AddTest|intA: 1; intB: 5
+2019-10-27 22:36:16.5870|INFO|Lab4SOAP.Tests.AddTest|Result: 6
+2019-10-27 22:36:16.6060|INFO|Lab4SOAP.Tests.AddTest|intA: 10; intB: 526
+2019-10-27 22:36:17.3063|INFO|Lab4SOAP.Tests.AddTest|Result: 536
+2019-10-27 22:36:17.3063|INFO|Lab4SOAP.Tests.AddTest|intA: -5; intB: 5
+2019-10-27 22:36:17.6443|INFO|Lab4SOAP.Tests.AddTest|Result: 0
+2019-10-27 22:36:17.6443|INFO|Lab4SOAP.Tests.AddTest|intA: -1485; intB: -7789
+2019-10-27 22:36:18.0452|INFO|Lab4SOAP.Tests.AddTest|Result: -9274
+2019-10-27 22:36:18.0498|INFO|Lab4SOAP.Tests.AddTest|intA: 2147483647; intB: 5
+2019-10-27 22:36:18.8215|INFO|Lab4SOAP.Tests.AddTest|intA: -2147483648; intB: -5
+2019-10-27 22:36:19.2916|INFO|Lab4SOAP.Tests.AddTest|intA: 1; intB: 5
+2019-10-27 22:36:19.7062|INFO|Lab4SOAP.Tests.AddTest|Result: 6
+2019-10-27 22:36:19.7062|INFO|Lab4SOAP.Tests.AddTest|intA: 10; intB: 526
+2019-10-27 22:36:20.0451|INFO|Lab4SOAP.Tests.AddTest|Result: 536
+2019-10-27 22:36:20.0451|INFO|Lab4SOAP.Tests.AddTest|intA: -5; intB: 5
+2019-10-27 22:36:20.3817|INFO|Lab4SOAP.Tests.AddTest|Result: 0
+2019-10-27 22:36:20.3817|INFO|Lab4SOAP.Tests.AddTest|intA: -1485; intB: -7789
+2019-10-27 22:36:20.7219|INFO|Lab4SOAP.Tests.AddTest|Result: -9274
+2019-10-27 22:36:20.7219|INFO|Lab4SOAP.Tests.AddTest|intA: 2147483647; intB: 5
+2019-10-27 22:36:21.0649|INFO|Lab4SOAP.Tests.AddTest|intA: -2147483648; intB: -5
+2019-10-27 22:36:21.4226|INFO|Lab4SOAP.Tests.DivideTest|intA: 5; intB: 1
+2019-10-27 22:36:21.7661|INFO|Lab4SOAP.Tests.DivideTest|Result: 5
+2019-10-27 22:36:21.7661|INFO|Lab4SOAP.Tests.DivideTest|intA: 520; intB: 10
+2019-10-27 22:36:22.1119|INFO|Lab4SOAP.Tests.DivideTest|Result: 52
+2019-10-27 22:36:22.1119|INFO|Lab4SOAP.Tests.DivideTest|intA: -5; intB: 5
+2019-10-27 22:36:22.9441|INFO|Lab4SOAP.Tests.DivideTest|Result: -1
+2019-10-27 22:36:22.9441|INFO|Lab4SOAP.Tests.DivideTest|intA: 11566665; intB: 7789
+2019-10-27 22:36:23.2860|INFO|Lab4SOAP.Tests.DivideTest|Result: 1485
+2019-10-27 22:36:23.2860|INFO|Lab4SOAP.Tests.DivideTest|intA: 0; intB: 0
+2019-10-27 22:36:23.6307|INFO|Lab4SOAP.Tests.DivideTest|intA: 1; intB: 0
+2019-10-27 22:36:23.9811|INFO|Lab4SOAP.Tests.DivideTest|intA: 2147483647; intB: 0
+2019-10-27 22:36:24.3192|INFO|Lab4SOAP.Tests.DivideTest|intA: 5; intB: 1
+2019-10-27 22:36:24.6636|INFO|Lab4SOAP.Tests.DivideTest|Result: 5
+2019-10-27 22:36:24.6636|INFO|Lab4SOAP.Tests.DivideTest|intA: 520; intB: 10
+2019-10-27 22:36:25.0126|INFO|Lab4SOAP.Tests.DivideTest|Result: 52
+2019-10-27 22:36:25.0126|INFO|Lab4SOAP.Tests.DivideTest|intA: -5; intB: 5
+2019-10-27 22:36:25.3539|INFO|Lab4SOAP.Tests.DivideTest|Result: -1
+2019-10-27 22:36:25.3539|INFO|Lab4SOAP.Tests.DivideTest|intA: 11566665; intB: 7789
+2019-10-27 22:36:25.6998|INFO|Lab4SOAP.Tests.DivideTest|Result: 1485
+2019-10-27 22:36:25.6998|INFO|Lab4SOAP.Tests.DivideTest|intA: 0; intB: 0
+2019-10-27 22:36:26.0643|INFO|Lab4SOAP.Tests.DivideTest|intA: 1; intB: 0
+2019-10-27 22:36:26.4057|INFO|Lab4SOAP.Tests.DivideTest|intA: 2147483647; intB: 0
+2019-10-27 22:36:26.7541|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 1; intB: 5
+2019-10-27 22:36:27.0924|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 5
+2019-10-27 22:36:27.0924|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 10; intB: 526
+2019-10-27 22:36:27.5018|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 5260
+2019-10-27 22:36:27.5038|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -5; intB: 5
+2019-10-27 22:36:27.8664|INFO|Lab4SOAP.Tests.MultiplyTest|Result: -25
+2019-10-27 22:36:27.8664|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -1485; intB: -7789
+2019-10-27 22:36:28.2075|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 11566665
+2019-10-27 22:36:28.2075|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 2147483647; intB: 5
+2019-10-27 22:36:28.9182|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -2147483648; intB: -5
+2019-10-27 22:36:29.4844|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 1; intB: 5
+2019-10-27 22:36:29.8268|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 5
+2019-10-27 22:36:29.8268|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 10; intB: 526
+2019-10-27 22:36:30.6599|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 5260
+2019-10-27 22:36:30.6599|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -5; intB: 5
+2019-10-27 22:36:31.0013|INFO|Lab4SOAP.Tests.MultiplyTest|Result: -25
+2019-10-27 22:36:31.0023|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -1485; intB: -7789
+2019-10-27 22:36:31.3394|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 11566665
+2019-10-27 22:36:31.3394|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 2147483647; intB: 5
+2019-10-27 22:36:31.6827|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -2147483648; intB: -5
+2019-10-27 22:36:32.0258|INFO|Lab4SOAP.Tests.SubtractTest|intA: 1; intB: 5
+2019-10-27 22:36:32.3720|INFO|Lab4SOAP.Tests.SubtractTest|Result: -4
+2019-10-27 22:36:32.3720|INFO|Lab4SOAP.Tests.SubtractTest|intA: 10; intB: 526
+2019-10-27 22:36:32.7226|INFO|Lab4SOAP.Tests.SubtractTest|Result: -516
+2019-10-27 22:36:32.7226|INFO|Lab4SOAP.Tests.SubtractTest|intA: -5; intB: 5
+2019-10-27 22:36:33.1275|INFO|Lab4SOAP.Tests.SubtractTest|Result: -10
+2019-10-27 22:36:33.1275|INFO|Lab4SOAP.Tests.SubtractTest|intA: -1485; intB: -7789
+2019-10-27 22:36:33.8688|INFO|Lab4SOAP.Tests.SubtractTest|Result: 6304
+2019-10-27 22:36:33.8688|INFO|Lab4SOAP.Tests.SubtractTest|intA: 2147483647; intB: -5
+2019-10-27 22:36:34.3943|INFO|Lab4SOAP.Tests.SubtractTest|intA: -2147483648; intB: 5
+2019-10-27 22:36:34.7947|INFO|Lab4SOAP.Tests.SubtractTest|intA: 1; intB: 5
+2019-10-27 22:36:35.1427|INFO|Lab4SOAP.Tests.SubtractTest|Result: -4
+2019-10-27 22:36:35.1437|INFO|Lab4SOAP.Tests.SubtractTest|intA: 10; intB: 526
+2019-10-27 22:36:35.4985|INFO|Lab4SOAP.Tests.SubtractTest|Result: -516
+2019-10-27 22:36:35.4985|INFO|Lab4SOAP.Tests.SubtractTest|intA: -5; intB: 5
+2019-10-27 22:36:35.8597|INFO|Lab4SOAP.Tests.SubtractTest|Result: -10
+2019-10-27 22:36:35.8597|INFO|Lab4SOAP.Tests.SubtractTest|intA: -1485; intB: -7789
+2019-10-27 22:36:36.1999|INFO|Lab4SOAP.Tests.SubtractTest|Result: 6304
+2019-10-27 22:36:36.1999|INFO|Lab4SOAP.Tests.SubtractTest|intA: 2147483647; intB: -5
+2019-10-27 22:36:36.5451|INFO|Lab4SOAP.Tests.SubtractTest|intA: -2147483648; intB: 5
+2019-10-28 09:42:55.8770|INFO|Lab4SOAP.Tests.AddTest|intA: 1; intB: 5
+2019-10-28 09:42:57.9301|INFO|Lab4SOAP.Tests.AddTest|Result: 6
+2019-10-28 09:42:57.9491|INFO|Lab4SOAP.Tests.AddTest|intA: 10; intB: 526
+2019-10-28 09:42:58.4068|INFO|Lab4SOAP.Tests.AddTest|Result: 536
+2019-10-28 09:42:58.4068|INFO|Lab4SOAP.Tests.AddTest|intA: -5; intB: 5
+2019-10-28 09:42:59.3964|INFO|Lab4SOAP.Tests.AddTest|Result: 0
+2019-10-28 09:42:59.3984|INFO|Lab4SOAP.Tests.AddTest|intA: -1485; intB: -7789
+2019-10-28 09:42:59.8836|INFO|Lab4SOAP.Tests.AddTest|Result: -9274
+2019-10-28 09:42:59.8836|INFO|Lab4SOAP.Tests.AddTest|intA: 2147483647; intB: 5
+2019-10-28 09:43:00.6968|INFO|Lab4SOAP.Tests.AddTest|intA: -2147483648; intB: -5
+2019-10-28 09:43:01.4822|INFO|Lab4SOAP.Tests.AddTest|intA: 1; intB: 5
+2019-10-28 09:43:02.3723|INFO|Lab4SOAP.Tests.AddTest|Result: 6
+2019-10-28 09:43:02.3723|INFO|Lab4SOAP.Tests.AddTest|intA: 10; intB: 526
+2019-10-28 09:43:02.9764|INFO|Lab4SOAP.Tests.AddTest|Result: 536
+2019-10-28 09:43:02.9764|INFO|Lab4SOAP.Tests.AddTest|intA: -5; intB: 5
+2019-10-28 09:43:04.2711|INFO|Lab4SOAP.Tests.AddTest|Result: 0
+2019-10-28 09:43:04.2731|INFO|Lab4SOAP.Tests.AddTest|intA: -1485; intB: -7789
+2019-10-28 09:43:04.7198|INFO|Lab4SOAP.Tests.AddTest|Result: -9274
+2019-10-28 09:43:04.7198|INFO|Lab4SOAP.Tests.AddTest|intA: 2147483647; intB: 5
+2019-10-28 09:43:05.2239|INFO|Lab4SOAP.Tests.AddTest|intA: -2147483648; intB: -5
+2019-10-28 09:43:05.7137|INFO|Lab4SOAP.Tests.DivideTest|intA: 5; intB: 1
+2019-10-28 09:43:06.1617|INFO|Lab4SOAP.Tests.DivideTest|Result: 5
+2019-10-28 09:43:06.1647|INFO|Lab4SOAP.Tests.DivideTest|intA: 520; intB: 10
+2019-10-28 09:43:06.6538|INFO|Lab4SOAP.Tests.DivideTest|Result: 52
+2019-10-28 09:43:06.6538|INFO|Lab4SOAP.Tests.DivideTest|intA: -5; intB: 5
+2019-10-28 09:43:07.1045|INFO|Lab4SOAP.Tests.DivideTest|Result: -1
+2019-10-28 09:43:07.1045|INFO|Lab4SOAP.Tests.DivideTest|intA: 11566665; intB: 7789
+2019-10-28 09:43:07.7050|INFO|Lab4SOAP.Tests.DivideTest|Result: 1485
+2019-10-28 09:43:07.7050|INFO|Lab4SOAP.Tests.DivideTest|intA: 0; intB: 0
+2019-10-28 09:43:08.1604|INFO|Lab4SOAP.Tests.DivideTest|intA: 1; intB: 0
+2019-10-28 09:43:08.7224|INFO|Lab4SOAP.Tests.DivideTest|intA: 2147483647; intB: 0
+2019-10-28 09:43:09.1667|INFO|Lab4SOAP.Tests.DivideTest|intA: 5; intB: 1
+2019-10-28 09:43:09.6094|INFO|Lab4SOAP.Tests.DivideTest|Result: 5
+2019-10-28 09:43:09.6094|INFO|Lab4SOAP.Tests.DivideTest|intA: 520; intB: 10
+2019-10-28 09:43:10.0597|INFO|Lab4SOAP.Tests.DivideTest|Result: 52
+2019-10-28 09:43:10.0597|INFO|Lab4SOAP.Tests.DivideTest|intA: -5; intB: 5
+2019-10-28 09:43:10.5172|INFO|Lab4SOAP.Tests.DivideTest|Result: -1
+2019-10-28 09:43:10.5172|INFO|Lab4SOAP.Tests.DivideTest|intA: 11566665; intB: 7789
+2019-10-28 09:43:10.9653|INFO|Lab4SOAP.Tests.DivideTest|Result: 1485
+2019-10-28 09:43:10.9653|INFO|Lab4SOAP.Tests.DivideTest|intA: 0; intB: 0
+2019-10-28 09:43:11.4451|INFO|Lab4SOAP.Tests.DivideTest|intA: 1; intB: 0
+2019-10-28 09:43:11.9046|INFO|Lab4SOAP.Tests.DivideTest|intA: 2147483647; intB: 0
+2019-10-28 09:43:12.3828|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 1; intB: 5
+2019-10-28 09:43:12.8517|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 5
+2019-10-28 09:43:12.8517|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 10; intB: 526
+2019-10-28 09:43:13.3319|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 5260
+2019-10-28 09:43:13.3319|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -5; intB: 5
+2019-10-28 09:43:13.7940|INFO|Lab4SOAP.Tests.MultiplyTest|Result: -25
+2019-10-28 09:43:13.7940|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -1485; intB: -7789
+2019-10-28 09:43:14.2719|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 11566665
+2019-10-28 09:43:14.2749|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 2147483647; intB: 5
+2019-10-28 09:43:14.7243|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -2147483648; intB: -5
+2019-10-28 09:43:15.1779|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 1; intB: 5
+2019-10-28 09:43:15.6236|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 5
+2019-10-28 09:43:15.6236|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 10; intB: 526
+2019-10-28 09:43:16.0954|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 5260
+2019-10-28 09:43:16.0954|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -5; intB: 5
+2019-10-28 09:43:16.5659|INFO|Lab4SOAP.Tests.MultiplyTest|Result: -25
+2019-10-28 09:43:16.5659|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -1485; intB: -7789
+2019-10-28 09:43:17.0194|INFO|Lab4SOAP.Tests.MultiplyTest|Result: 11566665
+2019-10-28 09:43:17.0234|INFO|Lab4SOAP.Tests.MultiplyTest|intA: 2147483647; intB: 5
+2019-10-28 09:43:17.4763|INFO|Lab4SOAP.Tests.MultiplyTest|intA: -2147483648; intB: -5
+2019-10-28 09:43:17.9278|INFO|Lab4SOAP.Tests.SubtractTest|intA: 1; intB: 5
+2019-10-28 09:43:18.3780|INFO|Lab4SOAP.Tests.SubtractTest|Result: -4
+2019-10-28 09:43:18.3780|INFO|Lab4SOAP.Tests.SubtractTest|intA: 10; intB: 526
+2019-10-28 09:43:18.8341|INFO|Lab4SOAP.Tests.SubtractTest|Result: -516
+2019-10-28 09:43:18.8361|INFO|Lab4SOAP.Tests.SubtractTest|intA: -5; intB: 5
+2019-10-28 09:43:19.2635|INFO|Lab4SOAP.Tests.SubtractTest|Result: -10
+2019-10-28 09:43:19.2635|INFO|Lab4SOAP.Tests.SubtractTest|intA: -1485; intB: -7789
+2019-10-28 09:43:19.7083|INFO|Lab4SOAP.Tests.SubtractTest|Result: 6304
+2019-10-28 09:43:19.7113|INFO|Lab4SOAP.Tests.SubtractTest|intA: 2147483647; intB: -5
+2019-10-28 09:43:20.1531|INFO|Lab4SOAP.Tests.SubtractTest|intA: -2147483648; intB: 5
+2019-10-28 09:43:20.6138|INFO|Lab4SOAP.Tests.SubtractTest|intA: 1; intB: 5
+2019-10-28 09:43:21.0838|INFO|Lab4SOAP.Tests.SubtractTest|Result: -4
+2019-10-28 09:43:21.0861|INFO|Lab4SOAP.Tests.SubtractTest|intA: 10; intB: 526
+2019-10-28 09:43:21.5493|INFO|Lab4SOAP.Tests.SubtractTest|Result: -516
+2019-10-28 09:43:21.5493|INFO|Lab4SOAP.Tests.SubtractTest|intA: -5; intB: 5
+2019-10-28 09:43:21.9964|INFO|Lab4SOAP.Tests.SubtractTest|Result: -10
+2019-10-28 09:43:21.9964|INFO|Lab4SOAP.Tests.SubtractTest|intA: -1485; intB: -7789
+2019-10-28 09:43:22.4976|INFO|Lab4SOAP.Tests.SubtractTest|Result: 6304
+2019-10-28 09:43:22.4976|INFO|Lab4SOAP.Tests.SubtractTest|intA: 2147483647; intB: -5
+2019-10-28 09:43:22.9727|INFO|Lab4SOAP.Tests.SubtractTest|intA: -2147483648; intB: 5

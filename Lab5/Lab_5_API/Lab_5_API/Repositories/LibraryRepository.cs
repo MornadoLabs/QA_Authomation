@@ -42,10 +42,10 @@ namespace Lab_5_API.Repositories
             Context.BooksInRent.Remove(book);
         }
 
-        public void ReplaceBook(BookInRent oldBook, BookInRent newBook)
+        public BookInRent ReplaceBook(BookInRent oldBook, BookInRent newBook)
         {
             Context.BooksInRent.Remove(oldBook);
-            Context.BooksInRent.Add(newBook);
+            return RentBook(newBook);
         }
 
         public List<User> GetUsers()

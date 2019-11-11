@@ -1,39 +1,98 @@
-﻿using System;
+﻿using Lab_5_API.Models;
+using Lab_5_API.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 
 namespace Lab_5_API.Controllers
 {
     public class LibraryController : ApiController
     {
-        // GET: api/Library
-        public IEnumerable<string> Get()
+        public LibraryController(ILibraryService libraryService)
         {
-            return new string[] { "value1", "value2" };
+            this.LibraryService = libraryService;
         }
 
-        // GET: api/Library/5
-        public string Get(int id)
+        protected ILibraryService LibraryService { get; set; }
+
+        [HttpGet]
+        public IHttpActionResult GetAllBooks()
         {
-            return "value";
+            var booksList = LibraryService.GetAllBooks();
+            return Ok(booksList);
         }
 
-        // POST: api/Library
-        public void Post([FromBody]string value)
+        [HttpGet]
+        public IHttpActionResult GetBook(int bookId)
         {
+            try
+            {
+                var book = LibraryService.GetBookById(bookId);
+                return Ok(book);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
-        // PUT: api/Library/5
-        public void Put(int id, [FromBody]string value)
+        [HttpGet]
+        public IHttpActionResult GetBooksByAuthor(string author, int? count = null)
         {
+            try
+            {
+                var booksList = LibraryService.GetBooksByAuthor(author, count);
+                return Ok(booksList);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
-        // DELETE: api/Library/5
-        public void Delete(int id)
+        [HttpPut]
+        public IHttpActionResult LoadNewBook([FromBody]Book newBook)
         {
+            try
+            {
+                var newBookId = LibraryService.LoadNewBook(newBook);
+                return Ok(newBookId);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
+
+        [HttpDelete]
+        public IHttpActionResult ReturnBook(int bookId)
+        {
+            try
+            {
+                LibraryService.ReturnBook(bookId);
+                return Ok("Book returned successfully!");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpPost]
+        public IHttpActionResult ReplaceBooks([FromBody]ReplaceBooksModel model)
+        {
+            try
+            {
+                var newRentId = LibraryService.ReplaceBook(model);
+                return Ok(newRentId);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
     }
 }

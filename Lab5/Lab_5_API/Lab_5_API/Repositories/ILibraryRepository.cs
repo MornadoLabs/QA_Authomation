@@ -19,7 +19,7 @@ namespace Lab_5_API.Repositories
 
         void ReturnBook(BookInRent book);
 
-        void ReplaceBook(BookInRent oldBook, BookInRent newBook);
+        BookInRent ReplaceBook(BookInRent oldBook, BookInRent newBook);
 
         List<Book> GetBooksByAuthor(string author);
 

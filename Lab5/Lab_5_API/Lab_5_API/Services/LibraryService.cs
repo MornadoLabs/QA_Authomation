@@ -21,6 +21,18 @@ namespace Lab_5_API.Services
             return LibraryRepository.GetAllBooks();
         }
 
+        public List<Book> GetBooksByAuthor(string author, int? count)
+        {
+            var books = LibraryRepository.GetBooksByAuthor(author);
+
+            if (count.HasValue)
+            {
+                books = books.Take(count.Value).ToList();
+            }
+
+            return books;
+        }
+
         public Book GetBookById(int bookId)
         {
             var book = LibraryRepository.GetBook(bookId);
@@ -30,6 +42,11 @@ namespace Lab_5_API.Services
             }
 
             return book;
+        }
+
+        public int LoadNewBook(Book newBook)
+        {
+            return LibraryRepository.LoadNewBook(newBook).ID;
         }
 
         public int RentBook(int userId, int bookId)
@@ -60,6 +77,46 @@ namespace Lab_5_API.Services
 
             newRentBook = LibraryRepository.RentBook(newRentBook);
             return newRentBook.ID;
+        }
+
+        public void ReturnBook(int bookId)
+        {
+            var bookInRent = LibraryRepository.GetBookInRent(bookId);
+            if (bookInRent == null)
+            {
+                throw new Exception($"The book with ID = {bookId} has not been rent.");
+            }
+            LibraryRepository.ReturnBook(bookInRent);
+        }
+
+        public int ReplaceBook(ReplaceBooksModel model)
+        {
+            var oldBookInRent = LibraryRepository.GetBookInRent(model.OldBookId);
+            if (oldBookInRent == null)
+            {
+                throw new Exception($"The book with ID = {model.OldBookId} has not been rent.");
+            }
+
+            var newBookInRent = LibraryRepository.GetBookInRent(model.NewBookId);
+            if (newBookInRent != null)
+            {
+                throw new Exception($"The book with ID = {model.NewBookId} has already been rent.");
+            }
+
+            var user = LibraryRepository.GetUser(model.UserId);
+            if (user == null)
+            {
+                throw new Exception($"The user with ID = {model.UserId} doesn't exist.");
+            }
+
+            newBookInRent = new BookInRent
+            {
+                BookID = model.NewBookId,
+                UserID = model.UserId
+            };
+
+            newBookInRent = LibraryRepository.ReplaceBook(oldBookInRent, newBookInRent);
+            return newBookInRent.ID;
         }
     }
 }

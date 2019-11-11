@@ -19,7 +19,35 @@ namespace Lab_5_API.Repositories
                     Name = "The Lord of the Rings",
                     Author = "J. R. R. Tolkien",
                     Genre = Genres.Fantasy
-                }
+                },
+                new Book
+                {
+                    ID = 2,
+                    Name = "A Study in Scarlet",
+                    Author = "Sir Arthur Conan Doyle",
+                    Genre = Genres.Detective
+                },
+                new Book
+                {
+                    ID = 3,
+                    Name = "Helsreach",
+                    Author = "Aaron Dembski-Bowden",
+                    Genre = Genres.ScienceFiction
+                },
+                new Book
+                {
+                    ID = 4,
+                    Name = "A Scandal in Bohemia",
+                    Author = "Sir Arthur Conan Doyle",
+                    Genre = Genres.Detective
+                },
+                new Book
+                {
+                    ID = 5,
+                    Name = "The Five Orange Pips",
+                    Author = "Sir Arthur Conan Doyle",
+                    Genre = Genres.Detective
+                },
             };
 
             public static List<User> Users { get; set; } = new List<User>
@@ -40,7 +68,19 @@ namespace Lab_5_API.Repositories
                     ID = 1,
                     BookID = 1,
                     UserID = 1
-                }
+                },
+                new BookInRent
+                {
+                    ID = 2,
+                    BookID = 3,
+                    UserID = 1
+                },
+                new BookInRent
+                {
+                    ID = 3,
+                    BookID = 4,
+                    UserID = 1
+                },
             };
         }
     }

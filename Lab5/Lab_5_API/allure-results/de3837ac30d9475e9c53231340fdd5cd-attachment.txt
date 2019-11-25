@@ -1,0 +1,2 @@
+2019-11-25 01:47:47.3603|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 1
+2019-11-25 01:47:47.3603|INFO|LibraryApiTests.LibraryTest|Result: Book returned successfully!

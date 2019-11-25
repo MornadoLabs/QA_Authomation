@@ -1,0 +1,87 @@
+{
+  "uuid": "1242e265-be8a-43c5-94b8-4d0e747c65d0-tr-0-1001",
+  "historyId": "LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks()",
+  "fullName": "LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "feature",
+      "value": "Get Methods"
+    },
+    {
+      "name": "subSuite",
+      "value": "GetAllBooks"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks()",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks()",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "c3ce6cfab2da4be0819fec2812ed6c93-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574646432110,
+      "stop": 1574646432961
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1574646432107,
+  "stop": 1574646432975
+}

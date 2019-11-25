@@ -1,0 +1,92 @@
+{
+  "uuid": "b10a80f4-f3f1-422d-b95e-d6faaf685e05-tr-0-1016",
+  "historyId": "LibraryApiTests.LibraryTest.LoadNewBook_ValidBooks_LoadedNewBookId(Lab_5_API.Models.Book)",
+  "fullName": "LibraryApiTests.LibraryTest.LoadNewBook_ValidBooks_LoadedNewBookId(Lab_5_API.Models.Book)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoadNewBook_ValidBooks_LoadedNewBookId"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "feature",
+      "value": "Put Methods"
+    },
+    {
+      "name": "subSuite",
+      "value": "LoadNewBook"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "LoadNewBook_ValidBooks_LoadedNewBookId(Lab_5_API.Models.Book)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "LoadNewBook_ValidBooks_LoadedNewBookId(Lab_5_API.Models.Book)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "9ca00e75e4f64d90a7fd9729ae3f7773-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574646433685,
+      "stop": 1574646433701
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "Lab_5_API.Models.Book"
+    }
+  ],
+  "start": 1574646433685,
+  "stop": 1574646433701
+}

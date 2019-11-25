@@ -1,0 +1,1 @@
+2019-11-25 01:44:41.2583|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 3, to the book with ID = 2 by 2.

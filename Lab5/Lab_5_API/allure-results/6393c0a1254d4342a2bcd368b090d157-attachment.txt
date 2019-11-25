@@ -1,0 +1,2 @@
+2019-11-25 03:47:13.2822|INFO|LibraryApiTests.LibraryTest|Loading bookId = 1
+2019-11-25 03:47:13.2822|INFO|LibraryApiTests.LibraryTest|Book name: The Lord of the Rings

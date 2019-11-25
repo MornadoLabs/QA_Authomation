@@ -1,0 +1,2 @@
+2019-11-25 01:47:47.1845|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 4, to the book with ID = 5 by 3.
+2019-11-25 01:47:47.1884|INFO|LibraryApiTests.LibraryTest|Result: The user with ID = 3 doesn't exist.

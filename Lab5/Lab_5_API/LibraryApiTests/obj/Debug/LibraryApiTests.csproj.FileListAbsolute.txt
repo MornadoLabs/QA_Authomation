@@ -53,3 +53,6 @@ D:\Learning\Master\5 cource\1 semester\QA Automation\QA_Authomation\Lab5\Lab_5_A
 D:\Learning\Master\5 cource\1 semester\QA Automation\QA_Authomation\Lab5\Lab_5_API\LibraryApiTests\obj\Debug\LibraryApiTests.csproj.CopyComplete
 D:\Learning\Master\5 cource\1 semester\QA Automation\QA_Authomation\Lab5\Lab_5_API\LibraryApiTests\obj\Debug\LibraryApiTests.dll
 D:\Learning\Master\5 cource\1 semester\QA Automation\QA_Authomation\Lab5\Lab_5_API\LibraryApiTests\obj\Debug\LibraryApiTests.pdb
+D:\Learning\Master\5 cource\1 semester\QA Automation\QA_Authomation\Lab5\Lab_5_API\LibraryApiTests\bin\Debug\allureConfig.json
+D:\Learning\Master\5 cource\1 semester\QA Automation\QA_Authomation\Lab5\Lab_5_API\LibraryApiTests\bin\Debug\Nlog.config
+D:\Learning\Master\5 cource\1 semester\QA Automation\QA_Authomation\Lab5\Lab_5_API\LibraryApiTests\bin\Debug\categories.json

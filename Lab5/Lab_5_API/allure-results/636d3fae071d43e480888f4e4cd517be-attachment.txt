@@ -1,0 +1,2 @@
+2019-11-25 01:47:46.8017|INFO|LibraryApiTests.LibraryTest|Loading bookId = 3
+2019-11-25 01:47:46.8017|INFO|LibraryApiTests.LibraryTest|Book name: Helsreach

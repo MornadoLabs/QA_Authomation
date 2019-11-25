@@ -1,0 +1,2 @@
+2019-11-25 02:37:05.3112|INFO|LibraryApiTests.LibraryTest|Loading bookId = 0
+2019-11-25 02:37:05.3432|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = 0 has not been found.

@@ -1,0 +1,96 @@
+{
+  "uuid": "9ed6cad3-66b2-43ed-9d6b-6c376c55dfd1-tr-0-1013",
+  "historyId": "LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"Aaron Dembski-Bowden\",5)",
+  "fullName": "LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"Aaron Dembski-Bowden\",5)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "feature",
+      "value": "Get Methods"
+    },
+    {
+      "name": "subSuite",
+      "value": "GetAllBooks"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"Aaron Dembski-Bowden\",5)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"Aaron Dembski-Bowden\",5)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "d7c27fd67744499386493bfbc4a22a2e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574646433246,
+      "stop": 1574646433265
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "Aaron Dembski-Bowden"
+    },
+    {
+      "name": "Param #1",
+      "value": "5"
+    }
+  ],
+  "start": 1574646433246,
+  "stop": 1574646433265
+}

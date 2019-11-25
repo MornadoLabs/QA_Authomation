@@ -1,0 +1,1 @@
+2019-11-25 01:44:21.0049|INFO|LibraryApiTests.LibraryTest|Loading bookId = 0

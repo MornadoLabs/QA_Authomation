@@ -1,0 +1,1 @@
+2019-11-25 01:45:01.4847|INFO|LibraryApiTests.LibraryTest|Returning book with ID = -345

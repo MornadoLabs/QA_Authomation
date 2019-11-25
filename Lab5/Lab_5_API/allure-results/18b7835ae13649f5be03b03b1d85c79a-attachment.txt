@@ -1,0 +1,2 @@
+2019-11-25 01:47:47.3304|INFO|LibraryApiTests.LibraryTest|Returning book with ID = -2147483648
+2019-11-25 01:47:47.3304|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = -2147483648 has not been rent.

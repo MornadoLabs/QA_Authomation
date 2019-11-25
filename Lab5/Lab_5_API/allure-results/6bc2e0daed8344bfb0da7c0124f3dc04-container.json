@@ -1,0 +1,12 @@
+{
+  "uuid": "d976f946-5d8a-4164-b51c-aaafc9ed6ce3-tc-0-1000",
+  "name": "LibraryApiTests.LibraryTest.ReplaceBooks_ValidBooks_LoadedNewRentId(3,2,1)",
+  "children": [
+    "7d61518b-6a7f-4710-96af-bfc89ddf78cd-tr-0-1024"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1574639089358,
+  "stop": 1574639093399
+}

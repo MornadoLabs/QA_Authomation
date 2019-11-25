@@ -1,0 +1,96 @@
+{
+  "uuid": "56b7aa86-3478-472a-9366-ea51d74a75fe-tr-0-1003",
+  "historyId": "LibraryApiTests.LibraryTest.GetBook_ExistingBookId_LoadedSelectedBook(1,\"The Lord of the Rings\")",
+  "fullName": "LibraryApiTests.LibraryTest.GetBook_ExistingBookId_LoadedSelectedBook(1,\"The Lord of the Rings\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetBook_ExistingBookId_LoadedSelectedBook"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "feature",
+      "value": "Get Methods"
+    },
+    {
+      "name": "subSuite",
+      "value": "GetBook"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "GetBook_ExistingBookId_LoadedSelectedBook(1,\"The Lord of the Rings\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GetBook_ExistingBookId_LoadedSelectedBook(1,\"The Lord of the Rings\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "6393c0a1254d4342a2bcd368b090d157-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574646433282,
+      "stop": 1574646433308
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "1"
+    },
+    {
+      "name": "Param #1",
+      "value": "The Lord of the Rings"
+    }
+  ],
+  "start": 1574646433282,
+  "stop": 1574646433308
+}

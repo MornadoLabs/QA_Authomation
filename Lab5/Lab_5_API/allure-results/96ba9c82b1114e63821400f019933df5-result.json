@@ -1,0 +1,92 @@
+{
+  "uuid": "b299e8ff-bec1-43ce-b225-434b4fcafaa9-tr-0-1011",
+  "historyId": "LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"J. R. R. Tolkien\",1)",
+  "fullName": "LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"J. R. R. Tolkien\",1)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "subSuite",
+      "value": "GetAllBooks"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"J. R. R. Tolkien\",1)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"J. R. R. Tolkien\",1)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "65244b2e9ce44281a802c3cca88089b0-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574639266615,
+      "stop": 1574639266668
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "J. R. R. Tolkien"
+    },
+    {
+      "name": "Param #1",
+      "value": "1"
+    }
+  ],
+  "start": 1574639266615,
+  "stop": 1574639266669
+}

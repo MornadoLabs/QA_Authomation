@@ -1,0 +1,96 @@
+{
+  "uuid": "2b052b15-2451-4b4b-a9c0-351b77dba933-tr-0-1012",
+  "historyId": "LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"Sir Arthur Conan Doyle\",null)",
+  "fullName": "LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"Sir Arthur Conan Doyle\",null)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "subSuite",
+      "value": "GetAllBooks"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"Sir Arthur Conan Doyle\",null)",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.NullReferenceException : Object reference not set to an instance of an object.",
+    "trace": "   at LibraryApiTests.Utils.RESTClient.Get[TResponse,TError](String url) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\Utils\\RESTClient.cs:line 59\r\n   at LibraryApiTests.Utils.LibraryClient.GetBooksByAuthor(String author, Nullable`1 count) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\Utils\\LibraryClient.cs:line 33\r\n   at LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks(String author, Nullable`1 count) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\LibraryTest.cs:line 97"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"Sir Arthur Conan Doyle\",null)",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "System.NullReferenceException : Object reference not set to an instance of an object.",
+        "trace": "   at LibraryApiTests.Utils.RESTClient.Get[TResponse,TError](String url) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\Utils\\RESTClient.cs:line 59\r\n   at LibraryApiTests.Utils.LibraryClient.GetBooksByAuthor(String author, Nullable`1 count) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\Utils\\LibraryClient.cs:line 33\r\n   at LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks(String author, Nullable`1 count) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\LibraryTest.cs:line 97"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "bcb54701a3394ffea7fb0ca4207ebc26-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574639040796,
+      "stop": 1574639044823
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "Sir Arthur Conan Doyle"
+    },
+    {
+      "name": "Param #1",
+      "value": "NULL"
+    }
+  ],
+  "start": 1574639040796,
+  "stop": 1574639044824
+}

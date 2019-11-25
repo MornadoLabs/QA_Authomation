@@ -1,0 +1,88 @@
+{
+  "uuid": "ee8ccf09-7c80-47a7-b92f-063c32128e41-tr-0-1016",
+  "historyId": "LibraryApiTests.LibraryTest.LoadNewBook_ValidBooks_LoadedNewBookId(Lab_5_API.Models.Book)",
+  "fullName": "LibraryApiTests.LibraryTest.LoadNewBook_ValidBooks_LoadedNewBookId(Lab_5_API.Models.Book)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoadNewBook_ValidBooks_LoadedNewBookId"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "subSuite",
+      "value": "LoadNewBook"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "LoadNewBook_ValidBooks_LoadedNewBookId(Lab_5_API.Models.Book)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "LoadNewBook_ValidBooks_LoadedNewBookId(Lab_5_API.Models.Book)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "aef0589539b94e13bf7ac5192e25840b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574639267107,
+      "stop": 1574639267122
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "Lab_5_API.Models.Book"
+    }
+  ],
+  "start": 1574639267107,
+  "stop": 1574639267122
+}

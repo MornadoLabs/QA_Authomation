@@ -1,0 +1,2 @@
+2019-11-25 01:47:47.2444|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 4, to the book with ID = 5 by 1.
+2019-11-25 01:47:47.2444|INFO|LibraryApiTests.LibraryTest|New rent ID: 5

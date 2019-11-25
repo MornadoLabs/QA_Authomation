@@ -1,0 +1,96 @@
+{
+  "uuid": "d23268ce-575a-42c2-8104-d6ad98d2a00a-tr-0-1005",
+  "historyId": "LibraryApiTests.LibraryTest.GetBook_ExistingBookId_LoadedSelectedBook(3,\"Helsreach\")",
+  "fullName": "LibraryApiTests.LibraryTest.GetBook_ExistingBookId_LoadedSelectedBook(3,\"Helsreach\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetBook_ExistingBookId_LoadedSelectedBook"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "feature",
+      "value": "Get Methods"
+    },
+    {
+      "name": "subSuite",
+      "value": "GetBook"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "GetBook_ExistingBookId_LoadedSelectedBook(3,\"Helsreach\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GetBook_ExistingBookId_LoadedSelectedBook(3,\"Helsreach\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "06f9c5ba588f46e595afbaf2fb19068b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574646433354,
+      "stop": 1574646433366
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "3"
+    },
+    {
+      "name": "Param #1",
+      "value": "Helsreach"
+    }
+  ],
+  "start": 1574646433354,
+  "stop": 1574646433366
+}

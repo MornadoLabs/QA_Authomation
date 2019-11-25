@@ -1,0 +1,1 @@
+2019-11-25 01:44:57.4497|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 0

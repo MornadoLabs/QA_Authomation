@@ -1,0 +1,88 @@
+{
+  "uuid": "de1f4622-0720-48da-8ace-77b330a5e8f6-tr-0-1008",
+  "historyId": "LibraryApiTests.LibraryTest.GetBook_NonexistentBookIds_BadRequestResultReturned(-345)",
+  "fullName": "LibraryApiTests.LibraryTest.GetBook_NonexistentBookIds_BadRequestResultReturned(-345)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetBook_NonexistentBookIds_BadRequestResultReturned"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "subSuite",
+      "value": "GetBook"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "GetBook_NonexistentBookIds_BadRequestResultReturned(-345)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GetBook_NonexistentBookIds_BadRequestResultReturned(-345)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "80acb01a8be84114a25ad325a9a7ac6a-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574639266869,
+      "stop": 1574639266878
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "-345"
+    }
+  ],
+  "start": 1574639266869,
+  "stop": 1574639266878
+}

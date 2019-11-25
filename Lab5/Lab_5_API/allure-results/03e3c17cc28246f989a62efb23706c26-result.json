@@ -1,0 +1,92 @@
+{
+  "uuid": "90edb0d2-35ce-4c4a-954e-091f40cafb58-tr-0-1004",
+  "historyId": "LibraryApiTests.LibraryTest.GetBook_ExistingBookId_LoadedSelectedBook(2,\"A Study in Scarlet\")",
+  "fullName": "LibraryApiTests.LibraryTest.GetBook_ExistingBookId_LoadedSelectedBook(2,\"A Study in Scarlet\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetBook_ExistingBookId_LoadedSelectedBook"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "subSuite",
+      "value": "GetBook"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "GetBook_ExistingBookId_LoadedSelectedBook(2,\"A Study in Scarlet\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GetBook_ExistingBookId_LoadedSelectedBook(2,\"A Study in Scarlet\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "0a404ae1a7fb4ea8acf60e7d68d6f9cb-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574642225263,
+      "stop": 1574642225273
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "2"
+    },
+    {
+      "name": "Param #1",
+      "value": "A Study in Scarlet"
+    }
+  ],
+  "start": 1574642225263,
+  "stop": 1574642225274
+}

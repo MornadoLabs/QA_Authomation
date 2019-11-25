@@ -1,0 +1,96 @@
+{
+  "uuid": "267d2a09-9896-4b5a-a525-51605b83ff37-tr-0-1011",
+  "historyId": "LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"J. R. R. Tolkien\",1)",
+  "fullName": "LibraryApiTests.LibraryTest.GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"J. R. R. Tolkien\",1)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "feature",
+      "value": "Get Methods"
+    },
+    {
+      "name": "subSuite",
+      "value": "GetAllBooks"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"J. R. R. Tolkien\",1)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GetAllBooks_CorrectRequest_LoadedListOfAllBooks(\"J. R. R. Tolkien\",1)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "c2704b00e7e84228b5b0748681ad0229-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574646433116,
+      "stop": 1574646433197
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "J. R. R. Tolkien"
+    },
+    {
+      "name": "Param #1",
+      "value": "1"
+    }
+  ],
+  "start": 1574646433116,
+  "stop": 1574646433199
+}

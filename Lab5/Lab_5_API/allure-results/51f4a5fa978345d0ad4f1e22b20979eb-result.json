@@ -1,0 +1,92 @@
+{
+  "uuid": "5db381d1-020b-4998-aeda-cb4e1039f4af-tr-0-1020",
+  "historyId": "LibraryApiTests.LibraryTest.ReturnBook_NonexistentBookIds_BadRequestResultReturned(0)",
+  "fullName": "LibraryApiTests.LibraryTest.ReturnBook_NonexistentBookIds_BadRequestResultReturned(0)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "ReturnBook_NonexistentBookIds_BadRequestResultReturned"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "feature",
+      "value": "Delete Methods"
+    },
+    {
+      "name": "subSuite",
+      "value": "ReturnBook"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "ReturnBook_NonexistentBookIds_BadRequestResultReturned(0)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ReturnBook_NonexistentBookIds_BadRequestResultReturned(0)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "9809e8e334b1432199325aac20995c7d-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574646433894,
+      "stop": 1574646433918
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "0"
+    }
+  ],
+  "start": 1574646433894,
+  "stop": 1574646433919
+}

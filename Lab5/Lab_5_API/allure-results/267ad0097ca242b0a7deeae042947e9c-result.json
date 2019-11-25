@@ -1,0 +1,96 @@
+{
+  "uuid": "e1bff3ad-aae9-406a-af5a-c83950544d54-tr-0-1027",
+  "historyId": "LibraryApiTests.LibraryTest.ReplaceBooks_InvalidUser_BadRequestResultReturned(3,2,2)",
+  "fullName": "LibraryApiTests.LibraryTest.ReplaceBooks_InvalidUser_BadRequestResultReturned(3,2,2)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "ReplaceBooks_InvalidUser_BadRequestResultReturned"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "minor"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "subSuite",
+      "value": "ReplaceBooks"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "ReplaceBooks_InvalidUser_BadRequestResultReturned(3,2,2)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ReplaceBooks_InvalidUser_BadRequestResultReturned(3,2,2)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "8e292368a72c4afb867b898741534578-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574639267140,
+      "stop": 1574639267165
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "3"
+    },
+    {
+      "name": "Param #1",
+      "value": "2"
+    },
+    {
+      "name": "Param #2",
+      "value": "2"
+    }
+  ],
+  "start": 1574639267140,
+  "stop": 1574639267166
+}

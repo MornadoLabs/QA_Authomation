@@ -1,0 +1,2 @@
+2019-11-25 01:47:47.1075|INFO|LibraryApiTests.LibraryTest|Loading book name = The Hobbit
+2019-11-25 01:47:47.1135|INFO|LibraryApiTests.LibraryTest|New book id: 7

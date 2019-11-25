@@ -1,0 +1,88 @@
+{
+  "uuid": "620a2b10-a77b-42b5-92b1-6fa9638265e7-tr-0-1018",
+  "historyId": "LibraryApiTests.LibraryTest.ReturnBook_ValidBooks_LoadedSuccessMessage(1)",
+  "fullName": "LibraryApiTests.LibraryTest.ReturnBook_ValidBooks_LoadedSuccessMessage(1)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "ReturnBook_ValidBooks_LoadedSuccessMessage"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "subSuite",
+      "value": "ReturnBook"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "ReturnBook_ValidBooks_LoadedSuccessMessage(1)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ReturnBook_ValidBooks_LoadedSuccessMessage(1)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "a76232cc0d794b64b861b1391d6ecd3e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574642225822,
+      "stop": 1574642225832
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "1"
+    }
+  ],
+  "start": 1574642225822,
+  "stop": 1574642225832
+}

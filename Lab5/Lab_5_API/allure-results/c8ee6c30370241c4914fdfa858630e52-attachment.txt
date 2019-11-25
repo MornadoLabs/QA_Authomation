@@ -1,0 +1,2 @@
+2019-11-25 01:47:45.9902|INFO|LibraryApiTests.LibraryTest|Loading all books.
+2019-11-25 01:47:46.4979|INFO|LibraryApiTests.LibraryTest|Result count: 5

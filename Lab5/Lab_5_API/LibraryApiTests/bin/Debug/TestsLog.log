@@ -1,0 +1,140 @@
+2019-11-25 01:43:52.2183|INFO|LibraryApiTests.LibraryTest|Loading all books.
+2019-11-25 01:43:56.7533|INFO|LibraryApiTests.LibraryTest|Loading 1 J. R. R. Tolkien's books.
+2019-11-25 01:44:00.7965|INFO|LibraryApiTests.LibraryTest|Loading all Sir Arthur Conan Doyle's books.
+2019-11-25 01:44:04.8395|INFO|LibraryApiTests.LibraryTest|Loading 5 Aaron Dembski-Bowden's books.
+2019-11-25 01:44:08.8892|INFO|LibraryApiTests.LibraryTest|Loading bookId = 1
+2019-11-25 01:44:12.9238|INFO|LibraryApiTests.LibraryTest|Loading bookId = 2
+2019-11-25 01:44:16.9610|INFO|LibraryApiTests.LibraryTest|Loading bookId = 3
+2019-11-25 01:44:21.0049|INFO|LibraryApiTests.LibraryTest|Loading bookId = 0
+2019-11-25 01:44:25.0409|INFO|LibraryApiTests.LibraryTest|Loading bookId = -345
+2019-11-25 01:44:29.0784|INFO|LibraryApiTests.LibraryTest|Loading bookId = -2147483648
+2019-11-25 01:44:33.1186|INFO|LibraryApiTests.LibraryTest|Loading book name = The Man with the Twisted Lip
+2019-11-25 01:44:37.2232|INFO|LibraryApiTests.LibraryTest|Loading book name = The Hobbit
+2019-11-25 01:44:41.2583|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 3, to the book with ID = 2 by 2.
+2019-11-25 01:44:45.3208|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 4, to the book with ID = 5 by 3.
+2019-11-25 01:44:49.3598|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 3, to the book with ID = 2 by 1.
+2019-11-25 01:44:53.4081|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 4, to the book with ID = 5 by 1.
+2019-11-25 01:44:57.4497|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 0
+2019-11-25 01:45:01.4847|INFO|LibraryApiTests.LibraryTest|Returning book with ID = -345
+2019-11-25 01:45:05.5243|INFO|LibraryApiTests.LibraryTest|Returning book with ID = -2147483648
+2019-11-25 01:45:09.5627|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 1
+2019-11-25 01:47:45.9902|INFO|LibraryApiTests.LibraryTest|Loading all books.
+2019-11-25 01:47:46.4979|INFO|LibraryApiTests.LibraryTest|Result count: 5
+2019-11-25 01:47:46.6168|INFO|LibraryApiTests.LibraryTest|Loading 1 J. R. R. Tolkien's books.
+2019-11-25 01:47:46.6598|INFO|LibraryApiTests.LibraryTest|Result count: 1
+2019-11-25 01:47:46.6888|INFO|LibraryApiTests.LibraryTest|Loading all Sir Arthur Conan Doyle's books.
+2019-11-25 01:47:46.6888|INFO|LibraryApiTests.LibraryTest|Result count: 3
+2019-11-25 01:47:46.7167|INFO|LibraryApiTests.LibraryTest|Loading 5 Aaron Dembski-Bowden's books.
+2019-11-25 01:47:46.7197|INFO|LibraryApiTests.LibraryTest|Result count: 1
+2019-11-25 01:47:46.7397|INFO|LibraryApiTests.LibraryTest|Loading bookId = 1
+2019-11-25 01:47:46.7397|INFO|LibraryApiTests.LibraryTest|Book name: The Lord of the Rings
+2019-11-25 01:47:46.7747|INFO|LibraryApiTests.LibraryTest|Loading bookId = 2
+2019-11-25 01:47:46.7747|INFO|LibraryApiTests.LibraryTest|Book name: A Study in Scarlet
+2019-11-25 01:47:46.8017|INFO|LibraryApiTests.LibraryTest|Loading bookId = 3
+2019-11-25 01:47:46.8017|INFO|LibraryApiTests.LibraryTest|Book name: Helsreach
+2019-11-25 01:47:46.8267|INFO|LibraryApiTests.LibraryTest|Loading bookId = 0
+2019-11-25 01:47:46.8487|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = 0 has not been found.
+2019-11-25 01:47:46.8696|INFO|LibraryApiTests.LibraryTest|Loading bookId = -345
+2019-11-25 01:47:46.8696|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = -345 has not been found.
+2019-11-25 01:47:46.8956|INFO|LibraryApiTests.LibraryTest|Loading bookId = -2147483648
+2019-11-25 01:47:46.8956|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = -2147483648 has not been found.
+2019-11-25 01:47:46.9326|INFO|LibraryApiTests.LibraryTest|Loading book name = The Man with the Twisted Lip
+2019-11-25 01:47:47.0815|INFO|LibraryApiTests.LibraryTest|New book id: 6
+2019-11-25 01:47:47.1075|INFO|LibraryApiTests.LibraryTest|Loading book name = The Hobbit
+2019-11-25 01:47:47.1135|INFO|LibraryApiTests.LibraryTest|New book id: 7
+2019-11-25 01:47:47.1405|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 3, to the book with ID = 2 by 2.
+2019-11-25 01:47:47.1405|INFO|LibraryApiTests.LibraryTest|Result: The user with ID = 2 doesn't exist.
+2019-11-25 01:47:47.1845|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 4, to the book with ID = 5 by 3.
+2019-11-25 01:47:47.1884|INFO|LibraryApiTests.LibraryTest|Result: The user with ID = 3 doesn't exist.
+2019-11-25 01:47:47.2164|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 3, to the book with ID = 2 by 1.
+2019-11-25 01:47:47.2204|INFO|LibraryApiTests.LibraryTest|New rent ID: 4
+2019-11-25 01:47:47.2444|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 4, to the book with ID = 5 by 1.
+2019-11-25 01:47:47.2444|INFO|LibraryApiTests.LibraryTest|New rent ID: 5
+2019-11-25 01:47:47.2744|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 0
+2019-11-25 01:47:47.2744|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = 0 has not been rent.
+2019-11-25 01:47:47.3024|INFO|LibraryApiTests.LibraryTest|Returning book with ID = -345
+2019-11-25 01:47:47.3024|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = -345 has not been rent.
+2019-11-25 01:47:47.3304|INFO|LibraryApiTests.LibraryTest|Returning book with ID = -2147483648
+2019-11-25 01:47:47.3304|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = -2147483648 has not been rent.
+2019-11-25 01:47:47.3603|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 1
+2019-11-25 01:47:47.3603|INFO|LibraryApiTests.LibraryTest|Result: Book returned successfully!
+2019-11-25 02:37:04.3108|INFO|LibraryApiTests.LibraryTest|Loading all books.
+2019-11-25 02:37:04.9015|INFO|LibraryApiTests.LibraryTest|Result count: 5
+2019-11-25 02:37:05.0834|INFO|LibraryApiTests.LibraryTest|Loading 1 J. R. R. Tolkien's books.
+2019-11-25 02:37:05.1303|INFO|LibraryApiTests.LibraryTest|Result count: 1
+2019-11-25 02:37:05.1683|INFO|LibraryApiTests.LibraryTest|Loading all Sir Arthur Conan Doyle's books.
+2019-11-25 02:37:05.1743|INFO|LibraryApiTests.LibraryTest|Result count: 3
+2019-11-25 02:37:05.1983|INFO|LibraryApiTests.LibraryTest|Loading 5 Aaron Dembski-Bowden's books.
+2019-11-25 02:37:05.1983|INFO|LibraryApiTests.LibraryTest|Result count: 1
+2019-11-25 02:37:05.2233|INFO|LibraryApiTests.LibraryTest|Loading bookId = 1
+2019-11-25 02:37:05.2233|INFO|LibraryApiTests.LibraryTest|Book name: The Lord of the Rings
+2019-11-25 02:37:05.2643|INFO|LibraryApiTests.LibraryTest|Loading bookId = 2
+2019-11-25 02:37:05.2673|INFO|LibraryApiTests.LibraryTest|Book name: A Study in Scarlet
+2019-11-25 02:37:05.2852|INFO|LibraryApiTests.LibraryTest|Loading bookId = 3
+2019-11-25 02:37:05.2852|INFO|LibraryApiTests.LibraryTest|Book name: Helsreach
+2019-11-25 02:37:05.3112|INFO|LibraryApiTests.LibraryTest|Loading bookId = 0
+2019-11-25 02:37:05.3432|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = 0 has not been found.
+2019-11-25 02:37:05.3682|INFO|LibraryApiTests.LibraryTest|Loading bookId = -345
+2019-11-25 02:37:05.3682|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = -345 has not been found.
+2019-11-25 02:37:05.4022|INFO|LibraryApiTests.LibraryTest|Loading bookId = -2147483648
+2019-11-25 02:37:05.4062|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = -2147483648 has not been found.
+2019-11-25 02:37:05.4431|INFO|LibraryApiTests.LibraryTest|Loading book name = The Man with the Twisted Lip
+2019-11-25 02:37:05.5891|INFO|LibraryApiTests.LibraryTest|New book id: 6
+2019-11-25 02:37:05.6110|INFO|LibraryApiTests.LibraryTest|Loading book name = The Hobbit
+2019-11-25 02:37:05.6110|INFO|LibraryApiTests.LibraryTest|New book id: 7
+2019-11-25 02:37:05.6400|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 3, to the book with ID = 2 by 2.
+2019-11-25 02:37:05.6400|INFO|LibraryApiTests.LibraryTest|Result: The user with ID = 2 doesn't exist.
+2019-11-25 02:37:05.6710|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 4, to the book with ID = 5 by 3.
+2019-11-25 02:37:05.6710|INFO|LibraryApiTests.LibraryTest|Result: The user with ID = 3 doesn't exist.
+2019-11-25 02:37:05.6970|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 3, to the book with ID = 2 by 1.
+2019-11-25 02:37:05.6970|INFO|LibraryApiTests.LibraryTest|New rent ID: 4
+2019-11-25 02:37:05.7240|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 4, to the book with ID = 5 by 1.
+2019-11-25 02:37:05.7240|INFO|LibraryApiTests.LibraryTest|New rent ID: 5
+2019-11-25 02:37:05.7455|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 0
+2019-11-25 02:37:05.7505|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = 0 has not been rent.
+2019-11-25 02:37:05.7765|INFO|LibraryApiTests.LibraryTest|Returning book with ID = -345
+2019-11-25 02:37:05.7765|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = -345 has not been rent.
+2019-11-25 02:37:05.8014|INFO|LibraryApiTests.LibraryTest|Returning book with ID = -2147483648
+2019-11-25 02:37:05.8014|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = -2147483648 has not been rent.
+2019-11-25 02:37:05.8234|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 1
+2019-11-25 02:37:05.8234|INFO|LibraryApiTests.LibraryTest|Result: Book returned successfully!
+2019-11-25 03:47:12.1246|INFO|LibraryApiTests.LibraryTest|Loading all books.
+2019-11-25 03:47:12.9244|INFO|LibraryApiTests.LibraryTest|Result count: 5
+2019-11-25 03:47:13.1173|INFO|LibraryApiTests.LibraryTest|Loading 1 J. R. R. Tolkien's books.
+2019-11-25 03:47:13.1842|INFO|LibraryApiTests.LibraryTest|Result count: 1
+2019-11-25 03:47:13.2172|INFO|LibraryApiTests.LibraryTest|Loading all Sir Arthur Conan Doyle's books.
+2019-11-25 03:47:13.2212|INFO|LibraryApiTests.LibraryTest|Result count: 3
+2019-11-25 03:47:13.2462|INFO|LibraryApiTests.LibraryTest|Loading 5 Aaron Dembski-Bowden's books.
+2019-11-25 03:47:13.2572|INFO|LibraryApiTests.LibraryTest|Result count: 1
+2019-11-25 03:47:13.2822|INFO|LibraryApiTests.LibraryTest|Loading bookId = 1
+2019-11-25 03:47:13.2822|INFO|LibraryApiTests.LibraryTest|Book name: The Lord of the Rings
+2019-11-25 03:47:13.3252|INFO|LibraryApiTests.LibraryTest|Loading bookId = 2
+2019-11-25 03:47:13.3282|INFO|LibraryApiTests.LibraryTest|Book name: A Study in Scarlet
+2019-11-25 03:47:13.3551|INFO|LibraryApiTests.LibraryTest|Loading bookId = 3
+2019-11-25 03:47:13.3551|INFO|LibraryApiTests.LibraryTest|Book name: Helsreach
+2019-11-25 03:47:13.3881|INFO|LibraryApiTests.LibraryTest|Loading bookId = 0
+2019-11-25 03:47:13.4191|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = 0 has not been found.
+2019-11-25 03:47:13.4431|INFO|LibraryApiTests.LibraryTest|Loading bookId = -345
+2019-11-25 03:47:13.4431|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = -345 has not been found.
+2019-11-25 03:47:13.4711|INFO|LibraryApiTests.LibraryTest|Loading bookId = -2147483648
+2019-11-25 03:47:13.4711|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = -2147483648 has not been found.
+2019-11-25 03:47:13.5050|INFO|LibraryApiTests.LibraryTest|Loading book name = The Man with the Twisted Lip
+2019-11-25 03:47:13.6560|INFO|LibraryApiTests.LibraryTest|New book id: 6
+2019-11-25 03:47:13.6859|INFO|LibraryApiTests.LibraryTest|Loading book name = The Hobbit
+2019-11-25 03:47:13.6909|INFO|LibraryApiTests.LibraryTest|New book id: 7
+2019-11-25 03:47:13.7249|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 3, to the book with ID = 2 by 2.
+2019-11-25 03:47:13.7409|INFO|LibraryApiTests.LibraryTest|Result: The user with ID = 2 doesn't exist.
+2019-11-25 03:47:13.7799|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 4, to the book with ID = 5 by 3.
+2019-11-25 03:47:13.7849|INFO|LibraryApiTests.LibraryTest|Result: The user with ID = 3 doesn't exist.
+2019-11-25 03:47:13.8169|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 3, to the book with ID = 2 by 1.
+2019-11-25 03:47:13.8169|INFO|LibraryApiTests.LibraryTest|New rent ID: 4
+2019-11-25 03:47:13.8568|INFO|LibraryApiTests.LibraryTest|ReplaceBooks book with ID = 4, to the book with ID = 5 by 1.
+2019-11-25 03:47:13.8608|INFO|LibraryApiTests.LibraryTest|New rent ID: 5
+2019-11-25 03:47:13.8958|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 0
+2019-11-25 03:47:13.9068|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = 0 has not been rent.
+2019-11-25 03:47:13.9428|INFO|LibraryApiTests.LibraryTest|Returning book with ID = -345
+2019-11-25 03:47:13.9428|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = -345 has not been rent.
+2019-11-25 03:47:13.9748|INFO|LibraryApiTests.LibraryTest|Returning book with ID = -2147483648
+2019-11-25 03:47:13.9748|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = -2147483648 has not been rent.
+2019-11-25 03:47:14.0077|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 1
+2019-11-25 03:47:14.0197|INFO|LibraryApiTests.LibraryTest|Result: Book returned successfully!

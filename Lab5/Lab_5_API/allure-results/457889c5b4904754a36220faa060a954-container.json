@@ -1,0 +1,12 @@
+{
+  "uuid": "3d96c285-5a37-4bfe-9bbd-8d49491a564a-tc-0-1000",
+  "name": "LibraryApiTests.LibraryTest.LoadNewBook_ValidBooks_LoadedNewBookId(Lab_5_API.Models.Book)",
+  "children": [
+    "662d42d4-4fe3-4b9f-810d-5c0ef475c16e-tr-0-1015"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1574646433504,
+  "stop": 1574646433676
+}

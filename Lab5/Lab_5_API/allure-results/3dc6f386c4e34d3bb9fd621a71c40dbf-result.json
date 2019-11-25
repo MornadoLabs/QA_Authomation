@@ -1,0 +1,96 @@
+{
+  "uuid": "3e919a00-64cc-43be-a520-af492f6f778a-tr-0-1004",
+  "historyId": "LibraryApiTests.LibraryTest.GetBook_ExistingBookId_LoadedSelectedBook(2,\"A Study in Scarlet\")",
+  "fullName": "LibraryApiTests.LibraryTest.GetBook_ExistingBookId_LoadedSelectedBook(2,\"A Study in Scarlet\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "GetBook_ExistingBookId_LoadedSelectedBook"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "feature",
+      "value": "Get Methods"
+    },
+    {
+      "name": "subSuite",
+      "value": "GetBook"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "GetBook_ExistingBookId_LoadedSelectedBook(2,\"A Study in Scarlet\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GetBook_ExistingBookId_LoadedSelectedBook(2,\"A Study in Scarlet\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "b180d12617f640de8a03f12bb79ee2a8-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574646433325,
+      "stop": 1574646433336
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "2"
+    },
+    {
+      "name": "Param #1",
+      "value": "A Study in Scarlet"
+    }
+  ],
+  "start": 1574646433325,
+  "stop": 1574646433336
+}

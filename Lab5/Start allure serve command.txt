@@ -1,0 +1,1 @@
+D:\allure-2.9.0\bin\allure.bat serve "D:\Learning\Master\5 cource\1 semester\QA Automation\QA_Authomation\Lab5\Lab_5_API\allure-results"

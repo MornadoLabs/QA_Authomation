@@ -1,0 +1,2 @@
+2019-11-25 03:47:13.8958|INFO|LibraryApiTests.LibraryTest|Returning book with ID = 0
+2019-11-25 03:47:13.9068|INFO|LibraryApiTests.LibraryTest|Result: The book with ID = 0 has not been rent.

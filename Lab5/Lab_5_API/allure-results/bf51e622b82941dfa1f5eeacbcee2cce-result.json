@@ -1,0 +1,92 @@
+{
+  "uuid": "9d2ba5be-09f5-4934-8941-d41a9fa92877-tr-0-1021",
+  "historyId": "LibraryApiTests.LibraryTest.ReturnBook_NonexistentBookIds_BadRequestResultReturned(-345)",
+  "fullName": "LibraryApiTests.LibraryTest.ReturnBook_NonexistentBookIds_BadRequestResultReturned(-345)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "ReturnBook_NonexistentBookIds_BadRequestResultReturned"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "subSuite",
+      "value": "ReturnBook"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "ReturnBook_NonexistentBookIds_BadRequestResultReturned(-345)",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.NullReferenceException : Object reference not set to an instance of an object.",
+    "trace": "   at LibraryApiTests.Utils.RESTClient.Delete[TResponse,TError](String url, Object model) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\Utils\\RESTClient.cs:line 132\r\n   at LibraryApiTests.Utils.LibraryClient.ReturnBook(Int32 bookId) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\Utils\\LibraryClient.cs:line 43\r\n   at LibraryApiTests.LibraryTest.ReturnBook_NonexistentBookIds_BadRequestResultReturned(Int32 bookId) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\LibraryTest.cs:line 154"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ReturnBook_NonexistentBookIds_BadRequestResultReturned(-345)",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "System.NullReferenceException : Object reference not set to an instance of an object.",
+        "trace": "   at LibraryApiTests.Utils.RESTClient.Delete[TResponse,TError](String url, Object model) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\Utils\\RESTClient.cs:line 132\r\n   at LibraryApiTests.Utils.LibraryClient.ReturnBook(Int32 bookId) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\Utils\\LibraryClient.cs:line 43\r\n   at LibraryApiTests.LibraryTest.ReturnBook_NonexistentBookIds_BadRequestResultReturned(Int32 bookId) in D:\\Learning\\Master\\5 cource\\1 semester\\QA Automation\\QA_Authomation\\Lab5\\Lab_5_API\\LibraryApiTests\\LibraryTest.cs:line 154"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "edfe3706551f45f0879ac58c676a6685-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574639101484,
+      "stop": 1574639105506
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "-345"
+    }
+  ],
+  "start": 1574639101484,
+  "stop": 1574639105507
+}

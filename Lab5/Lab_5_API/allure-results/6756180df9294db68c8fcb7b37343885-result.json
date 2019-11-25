@@ -1,0 +1,96 @@
+{
+  "uuid": "ceeb40cb-d317-4944-8662-59887a44c2e3-tr-0-1024",
+  "historyId": "LibraryApiTests.LibraryTest.ReplaceBooks_ValidBooks_LoadedNewRentId(3,2,1)",
+  "fullName": "LibraryApiTests.LibraryTest.ReplaceBooks_ValidBooks_LoadedNewRentId(3,2,1)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-SLIDFB8"
+    },
+    {
+      "name": "testClass",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "ReplaceBooks_ValidBooks_LoadedNewRentId"
+    },
+    {
+      "name": "package",
+      "value": "LibraryApiTests.LibraryTest"
+    },
+    {
+      "name": "tag",
+      "value": "CI"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    },
+    {
+      "name": "owner",
+      "value": "Mykola Pavlenchyk"
+    },
+    {
+      "name": "subSuite",
+      "value": "ReplaceBooks"
+    },
+    {
+      "name": "suite",
+      "value": "LibraryTest"
+    }
+  ],
+  "links": [],
+  "name": "ReplaceBooks_ValidBooks_LoadedNewRentId(3,2,1)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ReplaceBooks_ValidBooks_LoadedNewRentId(3,2,1)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "606b711bdfe74665b74b923359d6e9b0-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1574642225696,
+      "stop": 1574642225708
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "3"
+    },
+    {
+      "name": "Param #1",
+      "value": "2"
+    },
+    {
+      "name": "Param #2",
+      "value": "1"
+    }
+  ],
+  "start": 1574642225696,
+  "stop": 1574642225709
+}

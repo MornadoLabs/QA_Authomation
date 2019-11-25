@@ -1,7 +1,10 @@
-﻿using Lab_5_API.Models;
+﻿using Allure.Commons;
+using Lab_5_API.Models;
 using LibraryApiTests.DataProviders;
 using LibraryApiTests.Utils;
 using NLog;
+using NUnit.Allure.Attributes;
+using NUnit.Allure.Core;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
@@ -10,6 +13,9 @@ using System.Web.Http.Results;
 namespace LibraryApiTests
 {
     [TestFixture]
+    [AllureNUnit]
+    [AllureSuite("LibraryTest")]
+    [AllureDisplayIgnored]
     public class LibraryTest
     {
         private static readonly Logger Logger = LogManager.GetCurrentClassLogger();
@@ -21,6 +27,11 @@ namespace LibraryApiTests
         }
 
         [TestCase]
+        [AllureTag("CI")]
+        [AllureSeverity(SeverityLevel.normal)]
+        [AllureOwner("Mykola Pavlenchyk")]
+        [AllureFeature("Get Methods")]
+        [AllureSubSuite("GetAllBooks")]
         public void GetAllBooks_CorrectRequest_LoadedListOfAllBooks()
         {
             //arrange
@@ -36,6 +47,11 @@ namespace LibraryApiTests
         }
 
         [TestCaseSource(typeof(LibraryDataProvider), "ExistingBooks")]
+        [AllureTag("CI")]
+        [AllureSeverity(SeverityLevel.normal)]
+        [AllureOwner("Mykola Pavlenchyk")]
+        [AllureFeature("Get Methods")]
+        [AllureSubSuite("GetBook")]
         public void GetBook_ExistingBookId_LoadedSelectedBook(int bookId, string bookName)
         {
             //arrange
@@ -51,6 +67,11 @@ namespace LibraryApiTests
         }
 
         [TestCaseSource(typeof(LibraryDataProvider), "NonexistentBookIds")]
+        [AllureTag("CI")]
+        [AllureSeverity(SeverityLevel.normal)]
+        [AllureOwner("Mykola Pavlenchyk")]
+        [AllureFeature("Get Methods")]
+        [AllureSubSuite("GetBook")]
         public void GetBook_NonexistentBookIds_BadRequestResultReturned(int bookId)
         {
             //arrange
@@ -66,6 +87,11 @@ namespace LibraryApiTests
         }
 
         [TestCaseSource(typeof(LibraryDataProvider), "Authors")]
+        [AllureTag("CI")]
+        [AllureSeverity(SeverityLevel.normal)]
+        [AllureOwner("Mykola Pavlenchyk")]
+        [AllureFeature("Get Methods")]
+        [AllureSubSuite("GetAllBooks")]
         public void GetAllBooks_CorrectRequest_LoadedListOfAllBooks(string author, int? count)
         {
             //arrange
@@ -81,6 +107,11 @@ namespace LibraryApiTests
         }
 
         [TestCaseSource(typeof(LibraryDataProvider), "NewBooks")]
+        [AllureTag("CI")]
+        [AllureSeverity(SeverityLevel.critical)]
+        [AllureOwner("Mykola Pavlenchyk")]
+        [AllureFeature("Put Methods")]
+        [AllureSubSuite("LoadNewBook")]
         public void LoadNewBook_ValidBooks_LoadedNewBookId(Book newBook)
         {
             //arrange
@@ -96,6 +127,11 @@ namespace LibraryApiTests
         }
 
         [TestCaseSource(typeof(LibraryDataProvider), "BooksInRent")]
+        [AllureTag("CI")]
+        [AllureSeverity(SeverityLevel.critical)]
+        [AllureOwner("Mykola Pavlenchyk")]
+        [AllureFeature("Delete Methods")]
+        [AllureSubSuite("ReturnBook")]
         public void ReturnBook_ValidBooks_LoadedSuccessMessage(int bookId)
         {
             //arrange
@@ -111,6 +147,11 @@ namespace LibraryApiTests
         }
 
         [TestCaseSource(typeof(LibraryDataProvider), "NonexistentBookIds")]
+        [AllureTag("CI")]
+        [AllureSeverity(SeverityLevel.normal)]
+        [AllureOwner("Mykola Pavlenchyk")]
+        [AllureFeature("Delete Methods")]
+        [AllureSubSuite("ReturnBook")]
         public void ReturnBook_NonexistentBookIds_BadRequestResultReturned(int bookId)
         {
             //arrange
@@ -126,6 +167,11 @@ namespace LibraryApiTests
         }
 
         [TestCaseSource(typeof(LibraryDataProvider), "ReplaceBooks")]
+        [AllureTag("CI")]
+        [AllureSeverity(SeverityLevel.critical)]
+        [AllureOwner("Mykola Pavlenchyk")]
+        [AllureFeature("Post Methods")]
+        [AllureSubSuite("ReplaceBooks")]
         public void ReplaceBooks_ValidBooks_LoadedNewRentId(int oldBookId, int newBookId, int userId)
         {
             //arrange
@@ -141,6 +187,11 @@ namespace LibraryApiTests
         }
 
         [TestCaseSource(typeof(LibraryDataProvider), "ReplaceBooksWithNonexistentUsers")]
+        [AllureTag("CI")]
+        [AllureSeverity(SeverityLevel.minor)]
+        [AllureOwner("Mykola Pavlenchyk")]
+        [AllureFeature("Post Methods")]
+        [AllureSubSuite("ReplaceBooks")]
         public void ReplaceBooks_InvalidUser_BadRequestResultReturned(int oldBookId, int newBookId, int userId)
         {
             //arrange

@@ -1,0 +1,2 @@
+2019-11-25 02:37:05.1683|INFO|LibraryApiTests.LibraryTest|Loading all Sir Arthur Conan Doyle's books.
+2019-11-25 02:37:05.1743|INFO|LibraryApiTests.LibraryTest|Result count: 3

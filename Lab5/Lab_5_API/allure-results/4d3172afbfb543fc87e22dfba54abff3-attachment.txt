@@ -1,0 +1,2 @@
+2019-11-25 03:47:13.4431|INFO|LibraryApiTests.LibraryTest|Loading bookId = -345
+2019-11-25 03:47:13.4431|INFO|LibraryApiTests.LibraryTest|Request result: The book with ID = -345 has not been found.

@@ -1,0 +1,2 @@
+2019-11-25 01:47:46.9326|INFO|LibraryApiTests.LibraryTest|Loading book name = The Man with the Twisted Lip
+2019-11-25 01:47:47.0815|INFO|LibraryApiTests.LibraryTest|New book id: 6

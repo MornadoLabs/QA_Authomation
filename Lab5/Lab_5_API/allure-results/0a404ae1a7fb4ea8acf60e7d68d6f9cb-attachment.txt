@@ -1,0 +1,2 @@
+2019-11-25 02:37:05.2643|INFO|LibraryApiTests.LibraryTest|Loading bookId = 2
+2019-11-25 02:37:05.2673|INFO|LibraryApiTests.LibraryTest|Book name: A Study in Scarlet
